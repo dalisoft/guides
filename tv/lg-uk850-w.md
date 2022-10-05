@@ -79,6 +79,8 @@ This settings get from <https://rtings.com>
 
 #### Author-recommended settings
 
+This settings get from <https://rtings.com>
+
 | Option     | 200 nits      | 125 nits      | 100 nits      |
 | ---------- | ------------- | ------------- | ------------- |
 | Gamma      | Mode 4        | Mode 4        | Mode 4        |
