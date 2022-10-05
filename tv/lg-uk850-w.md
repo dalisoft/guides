@@ -8,6 +8,10 @@ Settings of pictures, audio and more
 - <https://settingslab.com/lg-27uk650-calibration-settings>
 - <https://www.tomshardware.com/reviews/lg-27uk850-gaming-monitor,5708-2.html>
 
+## Related resources
+
+- <https://tftcentral.co.uk/articles/icc_profiles>
+
 ## Recommendations
 
 - Use USB-C / Type-C interface to connecting to your device
@@ -15,9 +19,12 @@ Settings of pictures, audio and more
 
 ## macOS Recommended Profiles
 
-by order of recommendation
+Download [ICC Profile](https://www.rtings.com/images/reviews/monitor/lg/27uk650/27uk650-rtings-icc-profile.icm) and
+ put into `~/Library/ColorSync/Profiles` to get correct profiles. It's recommended for **Author-recommended settings**
 
-1. Use "LG HDR 4K" if  **available**
+or choose by order of recommendation
+
+1. Use "LG HDR 4K" if **available**
 2. Display P3
 3. Rec. ITU-R BT.2020-1 (monitor profile)
 4. Rec. ITU-R BT.709-5
@@ -75,7 +82,6 @@ This settings get from <https://rtings.com>
 | Green      | 51            | 51            | 51            |
 | Blue       | 40            | 40            | 40            |
 | Six Color  | **[Default]** | **[Default]** | **[Default]** |
-
 
 #### Author-recommended settings
 
