@@ -6,6 +6,7 @@ Settings of pictures, audio and more
 
 - <https://www.rtings.com/monitor/reviews/lg/27uk650-w>
 - <https://settingslab.com/lg-27uk650-calibration-settings>
+- <https://www.tomshardware.com/reviews/lg-27uk850-gaming-monitor,5708-2.html>
 
 ## Recommendations
 
@@ -32,10 +33,25 @@ or you don't find out any good variant, choose **Colour LCD** profile
 
 ### Picture → Picture Adjust
 
+#### Recommended settings
+
 | Option      | 200 nits | 120 nits | 100 nits |
 | ----------- | -------- | -------- | -------- |
-| Brightness  | 50       | 24       | 17       |
-| Contrast    | 71       | 67       | 67       |
+| Brightness  | 50       | 24       | 18       |
+| Contrast    | 67       | 67       | 67       |
+| Sharpness   | 50       | 50       | 50       |
+| Super Res+  | Off      | Off      | Off      |
+| Black Level | High     | High     | High     |
+| DFC         | Off      | Off      | Off      |
+
+#### Author-recommended settings
+
+This settings get from <https://rtings.com>
+
+| Option      | 200 nits | 120 nits | 100 nits |
+| ----------- | -------- | -------- | -------- |
+| Brightness  | 49       | 23       | 17       |
+| Contrast    | 71       | 71       | 71       |
 | Sharpness   | 50       | 50       | 50       |
 | Super Res+  | Off      | Off      | Off      |
 | Black Level | High     | High     | High     |
@@ -45,17 +61,31 @@ or you don't find out any good variant, choose **Colour LCD** profile
 
 - Response Time — Normal
 - FreeSync - Extended
-- Black Stabilizer - 10
+- Black Stabilizer - 0 or 10 (or choose your ideal value)
 
 ### Picture → Color Adjust
 
+#### Recommended settings
+
 | Option     | 200 nits      | 125 nits      | 100 nits      |
 | ---------- | ------------- | ------------- | ------------- |
-| Gamma      | Mode 4        | Mode 3        | Mode 3        |
+| Gamma      | Mode 3        | Mode 3        | Mode 3        |
 | Color Temp | Custom        | Custom        | Custom        |
-| Red        | 46            | 60            | 60            |
-| Green      | 50            | 51            | 51            |
-| Blue       | 48            | 40            | 40            |
+| Red        | 60            | 60            | 60            |
+| Green      | 51            | 51            | 51            |
+| Blue       | 40            | 40            | 40            |
+| Six Color  | **[Default]** | **[Default]** | **[Default]** |
+
+
+#### Author-recommended settings
+
+| Option     | 200 nits      | 125 nits      | 100 nits      |
+| ---------- | ------------- | ------------- | ------------- |
+| Gamma      | Mode 4        | Mode 4        | Mode 4        |
+| Color Temp | Custom        | Custom        | Custom        |
+| Red        | 46            | 46            | 46            |
+| Green      | 50            | 50            | 50            |
+| Blue       | 48            | 48            | 48            |
 | Six Color  | **[Default]** | **[Default]** | **[Default]** |
 
 ---
