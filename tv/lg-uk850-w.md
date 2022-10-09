@@ -12,6 +12,10 @@ Settings of pictures, audio and more
 
 - <https://tftcentral.co.uk/articles/icc_profiles>
 
+## Profiles
+
+- <https://www.rtings.com/images/reviews/monitor/lg/27uk650/27uk650-rtings-icc-profile.icm>
+
 ## Recommendations
 
 - Use USB-C / Type-C interface to connecting to your device
@@ -19,8 +23,8 @@ Settings of pictures, audio and more
 
 ## macOS Recommended Profiles
 
-Download [ICC Profile](https://www.rtings.com/images/reviews/monitor/lg/27uk650/27uk650-rtings-icc-profile.icm) and
- put into `~/Library/ColorSync/Profiles` to get correct profiles. It's recommended for **Author-recommended settings**
+Download [ICC Profile](#profiles) andbput into `~/Library/ColorSync/Profiles`
+to get correct profiles. It's recommended for **Author-recommended settings**
 
 or choose by order of recommendation
 
