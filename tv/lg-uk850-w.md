@@ -61,8 +61,8 @@ This settings get from <https://rtings.com>
 
 | Option      | 200 nits | 120 nits | 100 nits |
 | ----------- | -------- | -------- | -------- |
-| Brightness  | 49       | 23       | 17       |
-| Contrast    | 71       | 71       | 71       |
+| Brightness  | 49       | 24       | 17       |
+| Contrast    | 67       | 67       | 67       |
 | Sharpness   | 50       | 50       | 50       |
 | Super Res+  | Off      | Off      | Off      |
 | Black Level | High     | High     | High     |
@@ -72,7 +72,7 @@ This settings get from <https://rtings.com>
 
 - Response Time — Normal
 - FreeSync - Extended
-- Black Stabilizer - 0 or 10 (or choose your ideal value)
+- Black Stabilizer - 0, 10, 40 or **50** (or choose your ideal value)
 
 ### Picture → Color Adjust
 
