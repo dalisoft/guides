@@ -25,5 +25,5 @@ There list of macOS scaling for different displays and it's rating by author rec
 | 13"          | 2560x1600  | 1440x900 @ 1.78x  | Tricky              | `1`       |
 
 > Using **Perfect** scaling on **Tricky** rated sizes makes texts and UI
-> look bigger than expected, so using these scaling makes text
-> tricky and sometimes blurrier
+> look bigger than expected, so use these scaling even these scaling
+> makes text tricky and sometimes blurrier
