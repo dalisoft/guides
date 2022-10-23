@@ -57,8 +57,6 @@ or you don't find out any good variant, choose **Colour LCD** profile
 
 #### Author-recommended settings
 
-This settings get from <https://rtings.com>
-
 | Option      | 200 nits | 120 nits | 100 nits |
 | ----------- | -------- | -------- | -------- |
 | Brightness  | 49       | 24       | 17       |
@@ -72,7 +70,7 @@ This settings get from <https://rtings.com>
 
 - Response Time — Normal
 - FreeSync - Extended
-- Black Stabilizer - 0, 10, 40 or **50** (or choose your ideal value)
+- Black Stabilizer - **0**, 10, 40 or 50 (or choose your ideal value)
 
 ### Picture → Color Adjust
 

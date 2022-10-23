@@ -5,7 +5,10 @@ Settings of pictures, audio and more
 ## Useful Resources
 
 - <https://www.rtings.com/monitor/reviews/samsung/ue590>
+- <https://www.tomshardware.com/reviews/samsung-u28d590d-4k-ultra-hd-monitor,4033-3.html>
 - <https://tftcentral.co.uk/reviews/samsung_u28d590d.htm>
+- <https://tapadoo.com/developers-blog/calibrating-samsungs-u28e590d-for-mac-os>
+- <https://pcmonitors.info/reviews/samsung-u28d590d/#Calibration>
 
 ## Related resources
 
