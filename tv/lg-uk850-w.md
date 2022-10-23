@@ -70,7 +70,7 @@ or you don't find out any good variant, choose **Colour LCD** profile
 
 - Response Time — Normal
 - FreeSync - Extended
-- Black Stabilizer - **0**, 10, 40 or 50 (or choose your ideal value)
+- Black Stabilizer - 0, 10, 40 or **50** (or choose your ideal value)
 
 ### Picture → Color Adjust
 
