@@ -145,7 +145,7 @@
 
 ### Settings » Miscellaneous » Trusted Computing
 
-- Security Device Support — Disable
+- Security Device Support — **Disable**
 - SHA-1 PCR Bank — Enabled
 - SHA256 PCR Bank — Enabled
 - Pending operation — None
