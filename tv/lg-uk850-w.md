@@ -29,10 +29,10 @@ to get correct profiles. It's recommended for **Author-recommended settings**
 or choose by order of recommendation
 
 1. Use "LG HDR 4K" if **available**
-2. Display P3
-3. Rec. ITU-R BT.2020-1 (monitor profile)
-4. Rec. ITU-R BT.709-5
-5. sRGB IEC61966-2.1
+2. sRGB IEC61966-2.1
+3. Display P3
+4. Rec. ITU-R BT.2020-1 (monitor profile)
+5. Rec. ITU-R BT.709-5
 
 or you don't find out any good variant, choose **Colour LCD** profile
 
@@ -60,7 +60,7 @@ or you don't find out any good variant, choose **Colour LCD** profile
 | Option      | 200 nits | 120 nits | 100 nits |
 | ----------- | -------- | -------- | -------- |
 | Brightness  | 49       | 24       | 17       |
-| Contrast    | 67       | 67       | 67       |
+| Contrast    | 70       | 70       | 70       |
 | Sharpness   | 50       | 50       | 50       |
 | Super Res+  | Off      | Off      | Off      |
 | Black Level | High     | High     | High     |
@@ -113,7 +113,7 @@ This settings get from <https://rtings.com>
 - SMART ENERGY SAVING — Off
 - Power LED — Off
 - Automatic Standby — Off
-- DisplayPort Version — v1.4
+- DisplayPort Version — **v1.2** or v1.4
 - HDMI UHD Deep Color — On
 - Buzzer — Off
 - OSD Lock — Off
