@@ -220,3 +220,7 @@ Try replace motherboard battery for time
 ### CPU fans works always
 
 Please check **your Smart Fan** or **Load-line level**. One of these values cause this behavior
+
+### PCI-E Wi-Fi/BT Card does not work
+
+Please disable **PCH ASPM** at **Settings » Platform Power** for working any external PCI-E Wi-Fi/BT Card
