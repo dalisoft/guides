@@ -91,7 +91,7 @@
 ### Settings » IO Ports
 
 - Initial Display Output — PCIe 1 Slot
-- Internal Graphics — Enabled
+- Internal Graphics — **Disabled**
 - DVMT Pre-Allocated — 64M
 - DVMT Total Gfx mem — 128MB
 - Aperture Size — 256MB
@@ -192,7 +192,7 @@
 
 | Name / Param | Clock (Core, AVX, Uncore) | Voltage | DC / LLC    | Comfort |
 | ------------ | ------------------------- | ------- | ----------- | ------- |
-| Power        | 48/46/44                  | 1.200V  | Auto/High   | Good    |
+| Power        | 48/46/44                  | 1.190V  | Auto/High   | Good    |
 | Underpower   | 44/40/40                  | 1.100V  | Auto/Medium | Best    |
 
 ## Memory profiles
@@ -202,7 +202,7 @@ See [here](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%2
 | Name / Param   | Clock | Voltage | Timings     | CPU VCCIO | CPU System Agent Voltage |
 | -------------- | ----- | ------- | ----------- | --------- | ------------------------ |
 | Default (XMPP) | 3000  | 1.340V  | 15-16-16-35 | 1.100V    | 1.150V                   |
-| OC@1           | 3466  | 1.350V  | 16-18-18-42 | 1.150V    | 1.200V                   |
+| **OC@1**       | 3466  | 1.350V  | 16-18-18-42 | 1.150V    | 1.200V                   |
 | OC@2           | 3733  | 1.430V  | 17-18-18-42 | 1.200V    | 1.250V                   |
 
 ## FAQ
