@@ -172,7 +172,7 @@
 ## Boot
 
 - Bootup NumLock State — On
-- CFC Lock — Enabled **Disable causes BIOS brick**
+- CFC Lock — Disabled
 - Security Option — System
 - Full Screen LOGO Show — Enabled
 - Boot Option — [change as you want]
