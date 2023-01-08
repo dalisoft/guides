@@ -18,17 +18,17 @@ Settings of pictures, audio and more
 
 ### Picture → Advanced settings → Brightness
 
-| Option                    | Dolby Atmos       | HDR               | SDR  |
-| ------------------------- | ----------------- | ----------------- | ---- |
-| OLED Pixel Brightness     | 85                | 100               | 80   |
-| Adjust Contrast           | 85                | 100               | 85   |
-| Screen Brightness         | 50                | 50                | 50   |
-| Auto Dynamic Contrast     | Off               | High              | Off  |
-| HDR Tone Mapping          | On                | On                | -    |
-| Peak Brightness           | High              | High              | Off  |
-| Gamma (Adjust Brightness) | 2.2 **[Default]** | 2.2 **[Default]** | 2.2  |
-| Black Level               | Limited           | Auto              | Auto |
-| Motion Eye Care           | Off               | Off               | Off  |
+| Option                    | Dolby Atmos       | HDR               | SDR          |
+| ------------------------- | ----------------- | ----------------- | ------------ |
+| OLED Pixel Brightness     | 85                | 100               | 80           |
+| Adjust Contrast           | 85                | 100               | 85           |
+| Screen Brightness         | 50                | 50                | 50           |
+| Auto Dynamic Contrast     | Off               | High              | Off          |
+| HDR Tone Mapping          | On                | On                | -            |
+| Peak Brightness           | High              | High              | Off          |
+| Gamma (Adjust Brightness) | 2.2 **[Default]** | 2.2 **[Default]** | 2.2          |
+| Black Level               | Limited           | Auto/Limited      | Auto/Limited |
+| Motion Eye Care           | Off               | Off               | Off          |
 
 ### Picture → Advanced settings → Colour
 
@@ -49,11 +49,11 @@ Universal options:
 | -------------------- | ---------------- | ---------------- | ---------------- |
 | Adjust Sharpness     | 0                | 0                | 10               |
 | Super Resolution     | 0                | 0                | 0                |
-| Noise Reduction      | 0                | 0                | 0                |
-| MPEG Noise Reduction | 0                | 0                | 0                |
+| Noise Reduction      | Off              | Off              | Off              |
+| MPEG Noise Reduction | Off              | Off              | Off              |
 | Smooth Gradation     | Low              | Low              | Low              |
 | Cinema Screen        | On **[Default]** | On **[Default]** | On **[Default]** |
-| TruMotion            | Off              | Natural          | Natural          |
+| TruMotion            | Off              | Off              | Off              |
 
 Universal options:
 
