@@ -20,12 +20,12 @@ Settings of pictures, audio and more
 
 | Option                    | Dolby Atmos       | HDR               | SDR          |
 | ------------------------- | ----------------- | ----------------- | ------------ |
-| OLED Pixel Brightness     | 85                | 100               | 80           |
-| Adjust Contrast           | 85                | 100               | 85           |
-| Screen Brightness         | 50                | 50                | 50           |
-| Auto Dynamic Contrast     | Off               | High              | Off          |
+| OLED Pixel Brightness     | 75                | 75                | 80           |
+| Adjust Contrast           | 85                | 85                | 85           |
+| Screen Brightness         | 55                | 55                | 55           |
+| Auto Dynamic Contrast     | Low               | Medium            | High         |
 | HDR Tone Mapping          | On                | On                | -            |
-| Peak Brightness           | High              | High              | Off          |
+| Peak Brightness           | Medium            | Medium            | High         |
 | Gamma (Adjust Brightness) | 2.2 **[Default]** | 2.2 **[Default]** | 2.2          |
 | Black Level               | Limited           | Auto/Limited      | Auto/Limited |
 | Motion Eye Care           | Off               | Off               | Off          |
@@ -47,11 +47,11 @@ Universal options:
 
 | Option               | Dolby Atmos      | HDR              | SDR              |
 | -------------------- | ---------------- | ---------------- | ---------------- |
-| Adjust Sharpness     | 0                | 0                | 10               |
+| Adjust Sharpness     | 0                | 0                | 0                |
 | Super Resolution     | 0                | 0                | 0                |
 | Noise Reduction      | Off              | Off              | Off              |
 | MPEG Noise Reduction | Off              | Off              | Off              |
-| Smooth Gradation     | Low              | Low              | Low              |
+| Smooth Gradation     | Off              | Off              | Off              |
 | Cinema Screen        | On **[Default]** | On **[Default]** | On **[Default]** |
 | TruMotion            | Off              | Off              | Off              |
 
