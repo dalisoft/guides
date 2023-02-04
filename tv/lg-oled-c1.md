@@ -25,7 +25,7 @@ Settings of pictures, audio and more
 | Screen Brightness         | 55                | 55                | 55           |
 | Auto Dynamic Contrast     | Low               | Medium            | High         |
 | HDR Tone Mapping          | On                | On                | -            |
-| Peak Brightness           | Medium            | Medium            | High         |
+| Peak Brightness           | Low               | Medium            | Medium       |
 | Gamma (Adjust Brightness) | 2.2 **[Default]** | 2.2 **[Default]** | 2.2          |
 | Black Level               | Limited           | Auto/Limited      | Auto/Limited |
 | Motion Eye Care           | Off               | Off               | Off          |
