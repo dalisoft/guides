@@ -11,10 +11,10 @@ Settings of pictures, audio and more
 
 ## Picture
 
-| Option       | Dolby Atmos     | HDR         | SDR    |
-| ------------ | --------------- | ----------- | ------ |
-| Select Mode  | Cinema (User)   | Cinema Home | Cinema |
-| Aspect Ratio | Original (Scan) | ←           | ←      |
+| Option       | Dolby Vision    | HDR    | SDR    |
+| ------------ | --------------- | ------ | ------ |
+| Select Mode  | Cinema          | Cinema | Cinema |
+| Aspect Ratio | Original (Scan) | ←      | ←      |
 
 ### Picture → Advanced settings → Brightness
 
@@ -23,7 +23,7 @@ Settings of pictures, audio and more
 | OLED Pixel Brightness     | 75                | 75                | 75           |
 | Adjust Contrast           | 85                | 85                | 85           |
 | Screen Brightness         | 55                | 55                | 55           |
-| Auto Dynamic Contrast     | Low               | Medium            | Off          |
+| Auto Dynamic Contrast     | Off               | Medium            | Off          |
 | HDR Tone Mapping          | On                | On                | -            |
 | Peak Brightness           | Low               | Medium            | Off          |
 | Gamma (Adjust Brightness) | 2.2 **[Default]** | 2.2 **[Default]** | 2.2          |
