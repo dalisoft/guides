@@ -11,10 +11,10 @@ Settings of pictures, audio and more
 
 ## Picture
 
-| Option       | Dolby Atmos     | HDR            | SDR           |
-| ------------ | --------------- | -------------- | ------------- |
-| Select Mode  | Cinema (User)   | FILMMAKER Mode | Cinema (User) |
-| Aspect Ratio | Original (Scan) | ←              | ←             |
+| Option       | Dolby Atmos     | HDR         | SDR    |
+| ------------ | --------------- | ----------- | ------ |
+| Select Mode  | Cinema (User)   | Cinema Home | Cinema |
+| Aspect Ratio | Original (Scan) | ←           | ←      |
 
 ### Picture → Advanced settings → Brightness
 
@@ -25,7 +25,7 @@ Settings of pictures, audio and more
 | Screen Brightness         | 55                | 55                | 55           |
 | Auto Dynamic Contrast     | Low               | Medium            | Off          |
 | HDR Tone Mapping          | On                | On                | -            |
-| Peak Brightness           | Low               | Medium            | Low          |
+| Peak Brightness           | Low               | Medium            | Off          |
 | Gamma (Adjust Brightness) | 2.2 **[Default]** | 2.2 **[Default]** | 2.2          |
 | Black Level               | Limited           | Auto/Limited      | Auto/Limited |
 | Motion Eye Care           | Off               | Off               | Off          |
