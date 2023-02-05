@@ -11,10 +11,10 @@ Settings of pictures, audio and more
 
 ## Picture
 
-| Option       | Dolby Atmos     | HDR            | SDR            |
-| ------------ | --------------- | -------------- | -------------- |
-| Select Mode  | Cinema (User)   | FILMMAKER Mode | FILMMAKER Mode |
-| Aspect Ratio | Original (Scan) | ←              | ←              |
+| Option       | Dolby Atmos     | HDR            | SDR           |
+| ------------ | --------------- | -------------- | ------------- |
+| Select Mode  | Cinema (User)   | FILMMAKER Mode | Cinema (User) |
+| Aspect Ratio | Original (Scan) | ←              | ←             |
 
 ### Picture → Advanced settings → Brightness
 
