@@ -44,23 +44,10 @@ or you don't find out any good variant, choose **Colour LCD** profile
 
 ### Picture → Picture Adjust
 
-#### Recommended settings
-
 | Option      | 200 nits | 120 nits | 100 nits |
 | ----------- | -------- | -------- | -------- |
-| Brightness  | 50       | 24       | 18       |
+| Brightness  | 36       | 24       | 17       |
 | Contrast    | 67       | 67       | 67       |
-| Sharpness   | 50       | 50       | 50       |
-| Super Res+  | Off      | Off      | Off      |
-| Black Level | High     | High     | High     |
-| DFC         | Off      | Off      | Off      |
-
-#### Author-recommended settings
-
-| Option      | 200 nits | 120 nits | 100 nits |
-| ----------- | -------- | -------- | -------- |
-| Brightness  | 49       | 24       | 17       |
-| Contrast    | 70       | 70       | 70       |
 | Sharpness   | 50       | 50       | 50       |
 | Super Res+  | Off      | Off      | Off      |
 | Black Level | High     | High     | High     |
@@ -68,24 +55,11 @@ or you don't find out any good variant, choose **Colour LCD** profile
 
 ### Picture → Game Adjust
 
-- Response Time — Normal
+- Response Time — Faster
 - FreeSync - Extended
-- Black Stabilizer - 0, 10, 40 or **50** (or choose your ideal value)
+- Black Stabilizer - **50** (or choose your ideal value)
 
 ### Picture → Color Adjust
-
-#### Recommended settings
-
-| Option     | 200 nits      | 125 nits      | 100 nits      |
-| ---------- | ------------- | ------------- | ------------- |
-| Gamma      | Mode 3        | Mode 3        | Mode 3        |
-| Color Temp | Custom        | Custom        | Custom        |
-| Red        | 60            | 60            | 60            |
-| Green      | 51            | 51            | 51            |
-| Blue       | 40            | 40            | 40            |
-| Six Color  | **[Default]** | **[Default]** | **[Default]** |
-
-#### Author-recommended settings
 
 This settings get from <https://rtings.com>
 
@@ -102,7 +76,7 @@ This settings get from <https://rtings.com>
 
 ## Sound
 
-- Volume — 70
+- Volume — 10 (later you can control)
 - MaxxAudio — On
 
 ---
