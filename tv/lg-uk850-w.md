@@ -55,7 +55,7 @@ or you don't find out any good variant, choose **Colour LCD** profile
 
 ### Picture → Game Adjust
 
-- Response Time — Faster
+- Response Time — Faster (for gaming) and/or Off (for coding)
 - FreeSync - Extended
 - Black Stabilizer - **50** (or choose your ideal value)
 
