@@ -134,13 +134,13 @@
 - Temperature Warning Control — CPU, 90C
 - CPU Fan Fail Warning — Enabled
 
-| Fan         | Temprature         | Sensor  | Speed              |
-| ----------- | ------------------ | ------- | ------------------ |
-| CPU AIO     | -                  | CPU     | Full Speed         |
-| CPU-OPT AIO | 50-60-70-80-90C    | CPU     | 20-40-60-80-100%   |
-| Rear Case   | 40-42-44-46-48C    | VRM_MOS | 20-40-60-80-100%   |
-| Bottom      | 20-30-40-50        | HDD     | 0-30-60-90%        |
-| GPU FAN     | 40-50-60-70-80C    | GPU     | 20-40-60-80-100%   |
+| Fan         | Temprature      | Sensor  | Speed            |
+| ----------- | --------------- | ------- | ---------------- |
+| CPU AIO     | -               | CPU     | Full Speed       |
+| CPU-OPT AIO | 50-60-70-80-90C | CPU     | 20-40-60-80-100% |
+| Rear Case   | 40-42-44-46-48C | VRM_MOS | 20-40-60-80-100% |
+| Bottom      | 20-30-40-50     | HDD     | 0-30-60-90%      |
+| GPU FAN     | 40-50-60-70-80C | GPU     | 20-40-60-80-100% |
 
 ### Settings » Miscellaneous
 
@@ -192,7 +192,7 @@
 
 | Name / Param | Clock (Core, AVX, Uncore) | Voltage | DC / LLC    | Comfort |
 | ------------ | ------------------------- | ------- | ----------- | ------- |
-| Power        | 48/46/44                  | 1.190V  | Auto/High   | Good    |
+| Power        | 48/46/44                  | 1.200V  | Auto/High   | Good    |
 | Underpower   | 44/40/40                  | 1.100V  | Auto/Medium | Best    |
 
 ## Memory profiles
