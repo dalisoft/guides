@@ -36,7 +36,7 @@ Settings of pictures, audio and more
 
 ## macOS Recommended Profiles
 
-Download [ICC Profile](#profiles) andbput into `~/Library/ColorSync/Profiles`
+Download [ICC Profile](#profiles) and put into `~/Library/ColorSync/Profiles`
 to get correct profiles. It's recommended for **Author-recommended settings**
 
 or choose by order of recommendation
