@@ -43,18 +43,17 @@ or you don't find out any good variant, choose **Colour LCD** profile
 Download [ICC Profile](#profiles) and use that.
 to get correct profiles. It's recommended for **Author-recommended settings**
 
-
 ---
 
 ## Bri/Con
 
-| Option      | 200 nits | 120 nits | 100 nits |
-| ----------- | -------- | -------- | -------- |
-| Brightness  | 70       | 24       | 17       |
-| Dynamic Brightness | Off | Off | Off |
-| Black Level | 50     | 50     | 50     |
-| Contrast    | 65       | 65       | 655       |
-| DCR         | Off      | Off      | Off      |
+| Option             | 200 nits | 120 nits | 100 nits |
+| ------------------ | -------- | -------- | -------- |
+| Brightness         | 70       | -        | -        |
+| Dynamic Brightness | Off      | Off      | Off      |
+| Black Level        | 50       | 50       | 50       |
+| Contrast           | 65       | 65       | 655      |
+| DCR                | Off      | Off      | Off      |
 
 ---
 
@@ -64,7 +63,7 @@ to get correct profiles. It's recommended for **Author-recommended settings**
 - Hue - **50**
 - Saturation - **45**
 - Gamma - **2.2**
-- Aspect Ratio - **[DEFAULT]**
+- Aspect Ratio - **\[Default\]**
 
 ---
 
@@ -73,7 +72,7 @@ to get correct profiles. It's recommended for **Author-recommended settings**
 - Sharpness — **50**
 - Response Time - **Off**
 - Noise Reduction - **45**
-- Motion Response Time - **[DEFAULT]**
+- Motion Response Time - **\[Default\]**
 
 ---
 
@@ -86,7 +85,6 @@ Choose **Standard**
 ### Window Settings
 
 Author of this guide using **Single window** but you can use whatever you want
-
 
 ---
 
