@@ -6,7 +6,7 @@ Settings of pictures, audio and more
 
 - <http://www.lagom.nl/lcd-test>
 - <https://www.eizo.be/monitor-test>
-- <https://webkit.org/blog-files/color-gamut>
+- <https://webkit.org/blog-files/color-gamut/comparison.html>
 
 ## Useful tools
 
@@ -14,6 +14,7 @@ Settings of pictures, audio and more
 - <https://www.w4zt.com/screen>
 - <https://www.photofriday.com/info/calibrate>
 - <https://www.drycreekphoto.com/Learn/Calibration/monitor_black.htm>
+- <https://webkit.org/blog-files/color-gamut>
 
 ## Useful Resources
 
