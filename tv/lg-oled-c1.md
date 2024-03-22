@@ -31,47 +31,47 @@ Settings of pictures, audio and more
 
 ### Picture → Advanced settings → Brightness
 
-| Option                    | Dolby Atmos       | HDR               | SDR          |
-| ------------------------- | ----------------- | ----------------- | ------------ |
-| OLED Pixel Brightness     | 75                | 75                | 75           |
-| Adjust Contrast           | 85                | 85                | 85           |
-| Screen Brightness         | 55                | 55                | 55           |
-| Auto Dynamic Contrast     | Off               | Medium            | Off          |
-| HDR Tone Mapping          | On                | On                | -            |
-| Peak Brightness           | Low               | Medium            | Off          |
-| Gamma (Adjust Brightness) | 2.2 **[Default]** | 2.2 **[Default]** | 2.2          |
-| Black Level               | Limited           | Auto/Limited      | Auto/Limited |
-| Motion Eye Care           | Off               | Off               | Off          |
+| Option                    | Dolby Atmos         | HDR                 | SDR          |
+| ------------------------- | ------------------- | ------------------- | ------------ |
+| OLED Pixel Brightness     | 75                  | 75                  | 75           |
+| Adjust Contrast           | 85                  | 85                  | 85           |
+| Screen Brightness         | 55                  | 55                  | 55           |
+| Auto Dynamic Contrast     | Off                 | Medium              | Off          |
+| HDR Tone Mapping          | On                  | On                  | -            |
+| Peak Brightness           | Low                 | Medium              | Off          |
+| Gamma (Adjust Brightness) | 2.2 **\[Default\]** | 2.2 **\[Default\]** | 2.2          |
+| Black Level               | Limited             | Auto/Limited        | Auto/Limited |
+| Motion Eye Care           | Off                 | Off                 | Off          |
 
 ### Picture → Advanced settings → Colour
 
-| Option        | Dolby Atmos               | HDR              | SDR              |
-| ------------- | ------------------------- | ---------------- | ---------------- |
-| Colour Depth  | 50 **[Default]**          | 50 **[Default]** | 50 **[Default]** |
-| Tint          | 0 **[Default]**           | 0 **[Default]**  | 0 **[Default]**  |
-| Colour Gamut  | Auto Detect **[Default]** |
-| White balance | **[Default]**             |
+| Option        | Dolby Atmos                 | HDR                | SDR                |
+| ------------- | --------------------------- | ------------------ | ------------------ |
+| Colour Depth  | 50 **\[Default\]**          | 50 **\[Default\]** | 50 **\[Default\]** |
+| Tint          | 0 **\[Default\]**           | 0 **\[Default\]**  | 0 **\[Default\]**  |
+| Colour Gamut  | Auto Detect **\[Default\]** | **\[Default\]**    | **\[Default\]**    |
+| White balance | **\[Default\]**             | **\[Default\]**    | **\[Default\]**    |
 
 Universal options:
 
-- Fine Tune → Color Upgrade — Off **[Default]**
+- Fine Tune → Color Upgrade — Off **\[Default\]**
 
 ### Picture → Advanced settings → Clarity
 
-| Option               | Dolby Atmos      | HDR              | SDR              |
-| -------------------- | ---------------- | ---------------- | ---------------- |
-| Adjust Sharpness     | 10               | 10               | 10               |
-| Super Resolution     | 0                | 0                | Low              |
-| Noise Reduction      | Off              | Off              | Off              |
-| MPEG Noise Reduction | Off              | Low              | Low              |
-| Smooth Gradation     | Off              | Low              | Low              |
-| Cinema Screen        | On **[Default]** | On **[Default]** | On **[Default]** |
-| TruMotion            | Off              | Off              | Off              |
+| Option               | Dolby Atmos        | HDR                | SDR                |
+| -------------------- | ------------------ | ------------------ | ------------------ |
+| Adjust Sharpness     | 10                 | 10                 | 10                 |
+| Super Resolution     | 0                  | 0                  | Low                |
+| Noise Reduction      | Off                | Off                | Off                |
+| MPEG Noise Reduction | Off                | Low                | Low                |
+| Smooth Gradation     | Off                | Low                | Low                |
+| Cinema Screen        | On **\[Default\]** | On **\[Default\]** | On **\[Default\]** |
+| TruMotion            | Off                | Off                | Off                |
 
 Universal options:
 
-- FILMMAKER MODE Auto Start — On **[Default]**
-- Reduce Blue light — Off **[Default]**
+- FILMMAKER MODE Auto Start — On **\[Default\]**
+- Reduce Blue light — Off **\[Default\]**
 
 ---
 
@@ -82,21 +82,21 @@ Universal options:
 
 ### Sound → Advanced Settings
 
-- Dolby Atmos — On **[Default]**
-- Balance — 0 **[Default]**
-- Equalizer — Off **[Default]**
-- Installation Type — Stand **[Default]**
+- Dolby Atmos — On **\[Default\]**
+- Balance — 0 **\[Default\]**
+- Equalizer — Off **\[Default\]**
+- Installation Type — Stand **\[Default\]**
 - Automatic Volume Adjustment — On
-- DTV Audio Setting — Auto **[Default]**
-- Match Screen and Sound → — **[Default]**
+- DTV Audio Setting — Auto **\[Default\]**
+- Match Screen and Sound → — **\[Default\]**
 
 ### Sound → Advanced settings → LG Sound System
 
-- TV Sound Mode Share — Off **[Default]**
-- Sound Bar Mode Control — Off **[Default]**
-- LG Sound Sync — Off **[Default]**
-- Digital Sound Output — PCM **[Default]**
-- eARC Support — Off **[Default]**
+- TV Sound Mode Share — Off **\[Default\]**
+- Sound Bar Mode Control — Off **\[Default\]**
+- LG Sound Sync — Off **\[Default\]**
+- Digital Sound Output — PCM **\[Default\]**
+- eARC Support — Off **\[Default\]**
 
 ---
 
@@ -119,9 +119,9 @@ Universal options:
 
 ## Support → OLED Care
 
-- Care Picture Settings — Off **[Default]**
+- Care Picture Settings — Off **\[Default\]**
 - OLED Panel Care → Screen Move — On
 - OLED Panel Care → Adjust Logo Brightness — Low
 - OLED Panel Care → Care Recommendations — On
 
-- Device Self Care → Energy Saving — Off **[Default]**
+- Device Self Care → Energy Saving — Off **\[Default\]**

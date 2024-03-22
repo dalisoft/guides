@@ -2,7 +2,6 @@
 
 Settings of pictures, audio and more
 
-
 ## Tools
 
 - <http://www.lagom.nl/lcd-test>
@@ -53,9 +52,9 @@ or you don't find out any good variant, choose **Colour LCD** profile
 
 ## Picture
 
-#### Recommended settings
+### Recommended settings
 
-See https://www.rtings.com/monitor/reviews/samsung/ue590#page-test-results (Post calibration)
+See <https://www.rtings.com/monitor/reviews/samsung/ue590#page-test-results> (Post calibration)
 
 For my environment **150 nits** is the best one
 
@@ -69,7 +68,7 @@ For my environment **150 nits** is the best one
 
 ### Picture → Color
 
-See https://www.rtings.com/monitor/reviews/samsung/ue590#page-test-results (Post calibration)
+See <https://www.rtings.com/monitor/reviews/samsung/ue590#page-test-results> (Post calibration)
 
 | Option     | 200 nits | 150 nits | 100 nits |
 | ---------- | -------- | -------- | -------- |

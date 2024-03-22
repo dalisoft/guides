@@ -76,14 +76,14 @@ or you don't find out any good variant, choose **Colour LCD** profile
 
 This settings get from <https://rtings.com>
 
-| Option     | 200 nits      | 125 nits      | 100 nits      |
-| ---------- | ------------- | ------------- | ------------- |
-| Gamma      | Mode 4        | Mode 4        | Mode 4        |
-| Color Temp | Custom        | Custom        | Custom        |
-| Red        | 46            | 46            | 46            |
-| Green      | 50            | 50            | 50            |
-| Blue       | 48            | 48            | 48            |
-| Six Color  | **[Default]** | **[Default]** | **[Default]** |
+| Option     | 200 nits        | 125 nits        | 100 nits        |
+| ---------- | --------------- | --------------- | --------------- |
+| Gamma      | Mode 4          | Mode 4          | Mode 4          |
+| Color Temp | Custom          | Custom          | Custom          |
+| Red        | 46              | 46              | 46              |
+| Green      | 50              | 50              | 50              |
+| Blue       | 48              | 48              | 48              |
+| Six Color  | **\[Default\]** | **\[Default\]** | **\[Default\]** |
 
 ---
 
