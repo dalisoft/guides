@@ -2,6 +2,19 @@
 
 Settings of pictures, audio and more
 
+## Tools
+
+- <http://www.lagom.nl/lcd-test>
+- <https://www.eizo.be/monitor-test>
+- <https://webkit.org/blog-files/color-gamut>
+
+## Useful tools
+
+- <https://www.epaperpress.com/monitorcal>
+- <https://www.w4zt.com/screen>
+- <https://www.photofriday.com/info/calibrate>
+- <https://www.drycreekphoto.com/Learn/Calibration/monitor_black.htm>
+
 ## Useful Resources
 
 - <https://www.rtings.com/monitor/reviews/lg/27uk650-w>
