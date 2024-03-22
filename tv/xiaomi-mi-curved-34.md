@@ -72,7 +72,7 @@ to get correct profiles. It's recommended for **Author-recommended settings**
 
 - Sharpness — **50**
 - Response Time - **Off**
-- Noise Reduction - **45**
+- Noise Reduction - **Off**
 - Motion Response Time - **\[Default\]**
 
 ---
