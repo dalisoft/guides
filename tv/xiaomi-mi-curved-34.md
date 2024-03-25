@@ -44,6 +44,18 @@ or you don't find out any good variant, choose **Colour LCD** profile
 Download [ICC Profile](#profiles) and use that.
 to get correct profiles. It's recommended for **Author-recommended settings**
 
+### NVidia Control Panel
+
+#### Manage 3D Settings
+
+| Name                  | Value             | Kind   | Description                 |
+| --------------------- | ----------------- | ------ | --------------------------- |
+| Power Management Mode | Adaptive          | Global | Helps with performance/idle |
+| Monitor Technology    | G-SYNC compatible | Global | Helps reduce screen tearing |
+| Low latency Mode      | Ultra             | Global | Helps with V-SYNC           |
+| Triple buffering      | Off               | Global | Offloads GPU +1 frame       |
+| Vertical Sync         | On                | Global | Helps with smoothness       |
+
 ---
 
 ## Bri/Con
