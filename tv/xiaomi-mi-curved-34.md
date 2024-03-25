@@ -46,7 +46,7 @@ to get correct profiles. It's recommended for **Author-recommended settings**
 
 ### NVidia Control Panel
 
-#### Manage 3D Settings
+#### 3D Settings → Manage 3D Settings
 
 | Name                  | Value             | Kind   | Description                 |
 | --------------------- | ----------------- | ------ | --------------------------- |
@@ -55,6 +55,17 @@ to get correct profiles. It's recommended for **Author-recommended settings**
 | Low latency Mode      | Ultra             | Global | Helps with V-SYNC           |
 | Triple buffering      | Off               | Global | Offloads GPU +1 frame       |
 | Vertical Sync         | On                | Global | Helps with smoothness       |
+
+#### Display → Change resolutions
+
+Choose **NVIDIA color settings** and also select `120hz` mode to match within bandwidth
+
+| Name                 | Value            |
+| -------------------- | ---------------- |
+| Desktop color depth  | Highest (32-bit) |
+| Output color depth   | 8 bpc            |
+| Output color format  | RGB              |
+| Output dynamic range | Full             |
 
 ---
 
