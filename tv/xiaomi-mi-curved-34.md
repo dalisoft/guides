@@ -76,7 +76,7 @@ Choose **NVIDIA color settings** and also select `120hz` mode to match within ba
 | Brightness         | 70       | -        | -        |
 | Dynamic Brightness | Off      | Off      | Off      |
 | Black Level        | 50       | 50       | 50       |
-| Contrast           | 65       | 65       | 655      |
+| Contrast           | 65       | 65       | 65      |
 | DCR                | Off      | Off      | Off      |
 
 ---
