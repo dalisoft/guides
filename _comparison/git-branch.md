@@ -37,3 +37,5 @@
 - [Prettier](https://github.com/prettier/prettier)
 - [Biomejs](https://github.com/biomejs/biome)
 - [TypeScript](https://github.com/microsoft/TypeScript)
+- [ESBuild](https://github.com/evanw/esbuild)
+- [Bun](https://github.com/oven-sh/bun)
