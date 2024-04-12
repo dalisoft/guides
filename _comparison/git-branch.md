@@ -19,6 +19,7 @@
 - [VSCode](https://github.com/microsoft/vscode)
 - [Express.js](https://github.com/expressjs/express) **Unverified**
 - [Git](https://github.com/git/git)
+- [Linux](https://github.com/torvalds/linux)
 
 ## Rebase Used by
 
