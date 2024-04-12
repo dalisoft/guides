@@ -17,13 +17,13 @@
 ## Merge Used by
 
 - [VSCode](https://github.com/microsoft/vscode)
-- [Express.js](https://github.com/expressjs/express) **Unverified**
+- [Express.js](https://github.com/expressjs/express) **Needs confirmation**
 - [Git](https://github.com/git/git)
 - [Linux](https://github.com/torvalds/linux)
 
 ## Rebase Used by
 
--
+- [Tensorflow](https://github.com/tensorflow/tensorflow) **Needs confirmation**
 
 ## Squash & Merge Used by
 
