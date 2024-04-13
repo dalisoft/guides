@@ -1,18 +1,20 @@
 # Git PR/Branch comparison
 
-| Feature                | Merge                   | Rebase                   | Squash                          |
-| ---------------------- | ----------------------- | ------------------------ | ------------------------------- |
-| Used by                | [Go-to](#merge-used-by) | [Go-to](#rebase-used-by) | [Go-to](#squash--merge-used-by) |
-| Signed by GitHub       | ❌                      | ❌                       | ✅                              |
-| PR testing in prod     | ❌                      | ✅                       | ⚠️                              |
-| Linear history         | ❌                      | ✅                       | ⚠️                              |
-| Full-commits history   | ✅                      | ✅                       | ❌                              |
-| Debug / Bisect         | ✅                      | ⚠️                       | ❌                              |
-| Merge commit annoyance | ✅                      | ❌                       | ❌                              |
-| Auto-merge PR          | ✅                      | ❌                       | ✅                              |
-| Easy Revert PR         | ✅                      | ❌                       | ✅                              |
-|                        |                         |                          |                                 |
-| Total score            | 5                       | 3.5                      | 4                               |
+| Feature               | Merge                   | Rebase                   | Squash                          |
+| --------------------- | ----------------------- | ------------------------ | ------------------------------- |
+| Used by               | [Go-to](#merge-used-by) | [Go-to](#rebase-used-by) | [Go-to](#squash--merge-used-by) |
+| Signed by GitHub      | ❌                      | ❌                       | ✅                              |
+| Signed commits        | ✅                      | ✅                       | ❌                              |
+| PR testing in prod    | ❌                      | ✅                       | ⚠️                              |
+| Linear history        | ❌                      | ✅                       | ⚠️                              |
+| No `Merged` annoyance | ❌                      | ✅                       | ✅                              |
+| Full-commits history  | ✅                      | ✅                       | ❌                              |
+| Debug / Bisect        | ✅                      | ⚠️                       | ❌                              |
+| Auto-merge PR         | ✅                      | ❌                       | ✅                              |
+| Easy Merge PR         | ✅                      | ❌                       | ✅                              |
+| Easy Revert PR        | ✅                      | ❌                       | ✅                              |
+|                       |                         |                          |                                 |
+| Total score           | 6                       | 5.5                      | 6                               |
 
 ## Merge Used by
 
