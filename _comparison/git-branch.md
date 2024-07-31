@@ -13,8 +13,9 @@
 | Auto-merge PR         | ✅                      | ❌                       | ✅                              |
 | Easy Merge PR         | ✅                      | ❌                       | ✅                              |
 | Easy Revert PR        | ✅                      | ❌                       | ✅                              |
+| Log history / count   | ✅                      | ✅                       | ❌                              |
 |                       |                         |                          |                                 |
-| Total score           | 6                       | 5.5                      | 6                               |
+| Total score           | 7                       | 6.5                      | 6                               |
 
 ## Merge Used by
 
