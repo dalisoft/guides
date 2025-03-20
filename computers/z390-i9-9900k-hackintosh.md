@@ -91,7 +91,7 @@
 ### Settings » IO Ports
 
 - Initial Display Output — PCIe 1 Slot
-- Internal Graphics — **Disabled**
+- Internal Graphics — **Enabled**
 - DVMT Pre-Allocated — 64M
 - DVMT Total Gfx mem — 128MB
 - Aperture Size — 256MB
