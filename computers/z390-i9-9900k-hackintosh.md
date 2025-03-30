@@ -192,9 +192,9 @@
 
 | Name / Param | Clock (Core, AVX, Uncore) | Voltage | DC / LLC    | Comfort | Power Watt  | Relative performance |
 | ------------ | ------------------------- | ------- | ----------- | ------- | ----------- | -------------------- |
-| **Balance**  | 48/46/45                  | 1.235V  | Auto/High   | Good    | 210W (105%) | 100%                 |
-| Power        | 48/46/44                  | 1.200V  | Auto/High   | Good    | 200W (100%) | 96%                  |
-| Underpower   | 44/40/40                  | 1.100V  | Auto/Medium | Best    | 100W (50%)  | 80%                  |
+| **Balance**  | 48/46/45                  | 1.235V  | Auto/High   | Good    | 160W (105%) | 100%                 |
+| Power        | 48/46/44                  | 1.200V  | Auto/High   | Good    | 150W (94%)  | 96%                  |
+| Underpower   | 44/40/40                  | 1.100V  | Auto/Medium | Best    | 100W (62%)  | 80%                  |
 
 ## Memory profiles
 
