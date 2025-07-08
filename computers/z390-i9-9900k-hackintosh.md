@@ -5,22 +5,22 @@
 
 ## Hardware lists
 
-| Kind        | Vendor        | Model                               |
-| ----------- | ------------- | ----------------------------------- |
-| CPU         | Intel         | i9-9900K                            |
-| GPU         | Sapphire      | RX 470 Nitro+                       |
-| Motherboard | Gigabyte      | Intel Z390 Aorus Pro Wi-Fi          |
-| CPU Cooler  | Cooler Master | MasterLiquid ML240 RGB              |
-| RAM         | Crucial       | Ballistix DDR4-3000CL15 16GB\*4 Kit |
-| SSD         | Samsung       | 970 Evo 500GB                       |
-| SSD         | Samsung       | 970 Evo+ 500GB                      |
-| HDD         | Toshiba       | 4TB 7200RPM HDD                     |
-| PSU         | CoolerMaster  | V1200 80+ Platinum                  |
-| Case        | Gamdias       | Athena M2 ELite Mesh                |
-| Webcam      | Logitech      | C930c Full HD                       |
-| Keyboard    | Logitech      | MK470 Slim                          |
-| Monitor     | LG            | UK850-W 4K                          |
-| Adapter     | Fenvi         | T-919 Wi-Fi/BT Adapter              |
+| Kind        | Vendor        | Model                               | Firmware |
+| ----------- | ------------- | ----------------------------------- | -------- |
+| CPU         | Intel         | i9-9900K                            | -        |
+| GPU         | Sapphire      | RX 470 Nitro+                       | -        |
+| Motherboard | Gigabyte      | Intel Z390 AORUS Pro Wi-Fi          | F12k     |
+| CPU Cooler  | Cooler Master | MasterLiquid ML240 RGB              | -        |
+| RAM         | Crucial       | Ballistix DDR4-3000CL15 16GB\*4 Kit | -        |
+| SSD         | Samsung       | 970 Evo 500GB                       | 2B2QEXE7 |
+| SSD         | Samsung       | 970 Evo+ 500GB                      | 2B2QEXM7 |
+| HDD         | Toshiba       | 4TB 7200RPM HDD                     | -        |
+| PSU         | CoolerMaster  | V1200 80+ Platinum                  | -        |
+| Case        | Gamdias       | Athena M2 ELite Mesh                | -        |
+| Webcam      | Logitech      | C930c Full HD                       | -        |
+| Keyboard    | Logitech      | MK470 Slim                          | -        |
+| Monitor     | LG            | UK850-W 4K                          | -        |
+| Adapter     | Fenvi         | T-919 Wi-Fi/BT Adapter              | -        |
 
 ## Tweaker configurations
 
