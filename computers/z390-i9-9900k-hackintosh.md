@@ -1,5 +1,8 @@
 # BIOS Configs for Hackintosh
 
+> [!WARNING]
+> This settings will not be updated anymore. Since 2022 i have Macbook Pro M1 Max 16"
+
 ## Hardware lists
 
 | Kind        | Vendor        | Model                               |
