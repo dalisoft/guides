@@ -1,7 +1,7 @@
 # BIOS Configs for Hackintosh
 
 > [!WARNING]
-> This settings will not be updated anymore. Since 2022 i have Macbook Pro M1 Max 16"
+> This settings will not be updated anymore. Since 2022 i am own Macbook Pro M1 Max 16"
 
 ## Hardware lists
 
@@ -26,8 +26,8 @@
 
 ### Tweaker » CPU Configuration
 
-1. Enhanced Multi-Core Performance — Disabled
-2. IGP Ratio — Auto
+- Enhanced Multi-Core Performance — Disabled
+- IGP Ratio — Auto
 
 ### Tweaker » CPU Configuration » Advanced CPU Settings
 
@@ -57,7 +57,7 @@
 
 ### Tweaker » CPU Voltage
 
-- CPU Core — Auto (see below for manual)
+- CPU Core — Auto ([see cpu profiles](#cpu-profiles), example, **48**)
 - Dynamic Vcore(DVID) — Auto
 - SVID offset — Disabled
 - BCLK Adaptive Voltage — Auto
@@ -65,9 +65,9 @@
 
 ### Tweaker » Memory Voltage
 
-- DRAM Voltage (CH A/B) — Auto (see below for manual)
-- CPU VCCIO — Auto (see below for manual)
-- CPU System Agent Voltage — Auto (see below for manual)
+- DRAM Voltage (CH A/B) — Auto ([see memory profiles](#memory-profiles), example, **1.350V**)
+- CPU VCCIO — Auto ([see memory profiles](#memory-profiles), example, **1.100V**)
+- CPU System Agent Voltage — Auto ([see memory profiles](#memory-profiles), example, **1.150V**)
 - VCC Sustained — Auto
 - VCCPLL — Auto
 - VCCPLL OC — Auto
@@ -75,8 +75,8 @@
 
 ### Tweaker » Advanced Voltage Settings » CPU/VRM Settings
 
-- CPU Internal AC/DC Load Line — Auto (see below for manual)
-- CPU Vcore Loadline Calibration — Auto (see below for manual)
+- CPU Internal AC/DC Load Line — Auto ([see cpu profiles](#cpu-profiles), example, **Auto**)
+- CPU Vcore Loadline Calibration — Auto ([see cpu profiles](#cpu-profiles), example, **High**)
 
 ### Tweaker » Advanced Memory Settings
 
@@ -88,10 +88,10 @@
 
 ### Tweaker » Advanced Memory Settings » Memory Channels Timing
 
-- CAS Latency — Auto (see below, timings\[0\])
-- tRCD — Auto (see below, timings\[1\])
-- tRP — Auto (see below, timings\[2\])
-- tRAS — Auto (see below, timings\[3\])
+- CAS Latency — Auto ([see memory profiles](#memory-profiles), example, CL**15**-16-16-35)
+- tRCD — Auto ([see memory profiles](#memory-profiles), example, CL15-**16**-16-35)
+- tRP — Auto ([see memory profiles](#memory-profiles), example, CL15-16-**16**-35)
+- tRAS — Auto ([see memory profiles](#memory-profiles), example, CL15-16-16-**35**)
 - All other settings leave as — Auto
 
 ## Settings
@@ -214,8 +214,8 @@
 
 | Name / Param | Clock (Core, AVX, Uncore) | Voltage | DC / LLC    | Comfort | Power Watt  | Relative performance |
 | ------------ | ------------------------- | ------- | ----------- | ------- | ----------- | -------------------- |
-| **Balance**  | 48/46/45                  | 1.235V  | Auto/High   | Good    | 160W (100%) | 100%                 |
-| Power        | 48/46/44                  | 1.200V  | Auto/High   | Good    | 150W (94%)  | 96%                  |
+| **OC@1**     | 48/46/45                  | 1.235V  | Auto/High   | Good    | 160W (100%) | 100%                 |
+| Power        | 48/46/44                  | 1.200V  | Auto/High   | Good    | 145W (93%)  | 96%                  |
 | Underpower   | 44/40/40                  | 1.100V  | Auto/Medium | Best    | 100W (62%)  | 80%                  |
 
 ## Memory profiles
