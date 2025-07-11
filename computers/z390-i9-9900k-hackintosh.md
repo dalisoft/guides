@@ -212,21 +212,28 @@
 
 ## CPU Profiles
 
-| Name / Param | Clock (Core, AVX, Uncore) | Voltage | DC / LLC    | Comfort | Power Watt  | Relative performance |
-| ------------ | ------------------------- | ------- | ----------- | ------- | ----------- | -------------------- |
-| **OC@1**     | 48/46/45                  | 1.235V  | Auto/High   | Good    | 160W (100%) | 100%                 |
-| Power        | 48/46/44                  | 1.200V  | Auto/High   | Good    | 145W (93%)  | 96%                  |
-| Underpower   | 44/40/40                  | 1.100V  | Auto/Medium | Best    | 100W (62%)  | 80%                  |
+- Clocks - Core, AVX, Uncore. example, 48 is 4.8Ghz
+- DC - AC/DC Calibration
+- LLC - Load Line Calibration
+
+| Name       | Clocks   | Voltage | DC   | LLC    | Comfort | Power Watt  | Overclock |
+| ---------- | -------- | ------- | ---- | ------ | ------- | ----------- | --------- |
+| **OC@1**   | 48/46/45 | 1.235V  | Auto | High   | Good    | 160W (100%) | 27%       |
+| Power      | 48/46/44 | 1.200V  | Auto | High   | Good    | 145W (90%)  | 26%       |
+| Underpower | 44/40/40 | 1.100V  | Auto | Medium | Best    | 100W (62%)  | 11%       |
 
 ## Memory profiles
 
 See [voltage scaling](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md#voltage-scaling) for better understanding how it works
 
-| Name / Param   | Clock | Voltage | Timings     | CPU VCCIO | CPU System Agent Voltage |
-| -------------- | ----- | ------- | ----------- | --------- | ------------------------ |
-| Default (XMPP) | 3000  | 1.340V  | 15-16-16-35 | 1.100V    | 1.150V                   |
-| **OC@1**       | 3466  | 1.350V  | 16-18-18-42 | 1.150V    | 1.200V                   |
-| OC@2           | 3733  | 1.430V  | 17-18-18-42 | 1.200V    | 1.250V                   |
+- VCCSA - System Agent Voltage
+- RWCL - Performance of Read, Write, Copy and Latency
+
+| Name     | Clock | Voltage | Timings     | CR  | CPU VCCIO | CPU VCCSA | RWCL                |
+| -------- | ----- | ------- | ----------- | --- | --------- | --------- | ------------------- |
+| XMP-1    | 3000  | 1.340V  | 15-16-16-35 | 2   | 1.100V    | 1.150V    | -                   |
+| **OC@1** | 3466  | 1.350V  | 16-18-18-42 | 2   | 1.150V    | 1.200V    | 42GB/45GB/42GB/60ns |
+| OC@2     | 3733  | 1.430V  | 17-18-18-42 | 2   | 1.200V    | 1.250V    | -                   |
 
 ## FAQ
 
