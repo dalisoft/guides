@@ -62,7 +62,7 @@ Universal options:
 | Option               | Dolby Atmos        | HDR                | SDR                |
 | -------------------- | ------------------ | ------------------ | ------------------ |
 | Adjust Sharpness     | 10                 | 10                 | 10                 |
-| Super Resolution     | 0                  | 0                  | Low                |
+| Super Resolution     | Low                | Low                | Low                |
 | Noise Reduction      | Off                | Off                | Off                |
 | MPEG Noise Reduction | Off                | Low                | Low                |
 | Smooth Gradation     | Off                | Low                | Low                |
@@ -109,12 +109,20 @@ Universal options:
 - AI Brightness Settings — Off
 - Auto Genre Selection — Off
 - AI Sound Pro — Off
-- AI Acoustic Tuning → Mode — Standart **after tuning**
+- AI Acoustic Tuning → Mode — Standard **after tuning**
 - AI Recommendation — Off
 
 ### General → Network
 
 - Wi-Fi Connection → Other Network → Advanced Wi-Fi Settings
+
+---
+
+## System
+
+### System → Time & Timer → Timers
+
+- Auto Power Off — <= 1 hour
 
 ---
 
