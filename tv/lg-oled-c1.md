@@ -132,5 +132,4 @@ Universal options:
 - OLED Panel Care → Screen Move — On
 - OLED Panel Care → Adjust Logo Brightness — Low
 - OLED Panel Care → Care Recommendations — On
-
 - Device Self Care → Energy Saving — Off **\[Default\]**
