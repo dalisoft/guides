@@ -629,3 +629,18 @@ See [voltage scaling](https://github.com/integralfx/MemTestHelper/blob/oc-guide/
 | ------------ | ----- | ------------ | ----------- | --------------------- | --------------------- |
 | Default ⚠️   | 2133  | 1.200V (120) | 15-15-15-36 | 1.0590V               | \[+\] 0 (1.000V)      |
 | **UV@1**     | 2133  | 1.200V (120) | 15-15-15-36 | 1.0590V               | \[+\] 100 (1.110V)    |
+
+## Links
+
+- <https://github.com/Koshak1013/HuananzhiX99_BIOS_mods>
+- <https://github.com/miyconst/Mi899>
+- <https://e5450.com/socket-2011-3/huananzhi-x99-f8/>
+- <https://e5450.com/socket-2011-3/e5-2600-v3/xeon-e5-2696-v3/>
+- <https://e5450.com/vopros-otvet/>
+- <https://www.reddit.com/r/homelab/comments/1gvysj9/is_huananzhi_x99_f8_with_e5_2680_v4_with_rtx_4060/>
+- <https://www.reddit.com/r/homelab/comments/1ck0p6a/x99_huananzhi_f8d_plus_server_build/>
+- <https://linustechtips.com/topic/1316242-hunanazhi-x99-f8/>
+- <https://linustechtips.com/topic/1480885-thread-for-those-of-you-with-chinese-x99x79x58etc-boards/>
+- <https://forums.overclockers.ru/viewtopic.php?f=1&t=602922>
+- <https://www.diy-laptoprepair.com/forum/fix-HUANANZHI-X99-F8-repair-guide-schematics.html>
+- <https://vlab.su/viewtopic.php?f=44&t=135727>
