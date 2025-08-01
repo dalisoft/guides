@@ -634,6 +634,8 @@ See [voltage scaling](https://github.com/integralfx/MemTestHelper/blob/oc-guide/
 
 - <https://github.com/Koshak1013/HuananzhiX99_BIOS_mods>
 - <https://github.com/miyconst/Mi899>
+- <https://github.com/markkpa/x99-t8d-and-x99-f8d-Opencore-Hackintosh>
+- <https://github.com/felipemeamaral/EFI-X99-F8-OPENCORE>
 - <https://e5450.com/socket-2011-3/huananzhi-x99-f8/>
 - <https://e5450.com/socket-2011-3/e5-2600-v3/xeon-e5-2696-v3/>
 - <https://e5450.com/vopros-otvet/>
