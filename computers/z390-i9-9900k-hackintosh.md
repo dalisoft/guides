@@ -229,12 +229,39 @@ See [voltage scaling](https://github.com/integralfx/MemTestHelper/blob/oc-guide/
 - VCCSA - System Agent Voltage
 - RWCL - Performance of Read, Write, Copy and Latency
 
-| Name           | Clock | Voltage | Timings     | CR  | CPU VCCIO | CPU VCCSA | RWCL (WSL2)         |
-| -------------- | ----- | ------- | ----------- | --- | --------- | --------- | ------------------- |
-| JEDEC-DDR-2133 | 2133  | 1.200V  | 14-14-14-35 | 1   | 1.000V    | 1.050V    | -                   |
-| XMP-1          | 3000  | 1.340V  | 15-16-16-35 | 2   | 1.100V    | 1.150V    | -                   |
-| **M-OC@1**     | 3466  | 1.350V  | 16-18-18-42 | 2   | 1.150V    | 1.200V    | 42GB/45GB/42GB/60ns |
-| M-OC@2         | 3733  | 1.430V  | 17-18-18-42 | 2   | 1.200V    | 1.250V    | -                   |
+| Details         | JEDEC-DDR-2400      | XMP-1  | M-OC@1              | M-OC@2 |
+| --------------- | ------------------- | ------ | ------------------- | ------ |
+| **Status**      | -                   | -      | **Active**          | -      |
+| Clock           | 2400                | 3000   | 3466                | 3733   |
+| Voltage         | 1.200V              | 1.340V | 1.350V              | 1.430V |
+| &nbsp;          |                     |        |                     |        |
+| **Timings**     |                     |        |                     |        |
+|                 | _Primary timings_   |        |                     |        |
+| CAS / tCL       | 16                  | 15     | 16                  | 17     |
+| tRCD / tRLCD    | 16                  | 16     | 18                  | 17     |
+| tRP             | 16                  | 16     | 18                  | 18     |
+| RAS / tRAS      | 39                  | 35     | 42                  | 42     |
+| Command Rate    | 1                   | 2      | 2                   | 2      |
+|                 | _Secondary timings_ |        |                     |        |
+| tWR             |                     |        | 24                  |        |
+| tRFC            | 421                 | 526    | 607                 |        |
+| tRRD_L          | 6                   | 8      | 9                   |        |
+| tRRD_S          | 4                   | 5      | 6                   |        |
+| tWTR_L          |                     |        | 13                  |        |
+| tWTR_S          |                     |        | 5                   |        |
+| tRTP            |                     |        | 12                  |        |
+| tFAW            | 26                  | 32     | 37                  |        |
+| tCWL            | 14                  | 14     | 16                  | 16     |
+|                 | _Timings_           |        |                     |        |
+| tREFI           |                     |        | 13541               | -      |
+| &nbsp;          |                     |        |                     |        |
+| **Voltages**    |                     |        |                     |        |
+| CPU VCCIO       | 1.000V              | 1.100V | 1.150V              | 1.200V |
+| CPU VCCSA       | 1.050V              | 1.150V | 1.200V              | 1.250V |
+| &nbsp;          |                     |        |                     |        |
+| **Performance** |                     |        |                     |        |
+| RWCL (WSL2)     | -                   | -      | 42GB/45GB/42GB/60ns | -      |
+| RWCL (no WSL2)  | -                   | -      | 48GB/52GB/48GB/55ns | -      |
 
 ## FAQ
 
