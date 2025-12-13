@@ -625,10 +625,10 @@ To-do, fill later
 
 See [voltage scaling](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md#voltage-scaling) for better understanding how it works
 
-| Name / Param | Clock | Voltage      | Timings     | VccIo Voltage Control | Uncore Voltage Offset |
-| ------------ | ----- | ------------ | ----------- | --------------------- | --------------------- |
-| Default ⚠️   | 2133  | 1.200V (120) | 15-15-15-36 | 1.0590V               | \[+\] 0 (1.000V)      |
-| **UV@1**     | 2133  | 1.200V (120) | 15-15-15-36 | 1.0590V               | \[+\] 100 (1.110V)    |
+| Name / Param      | Clock | Voltage      | Timings     | VccIo Voltage Control | Uncore Voltage Offset |
+| ----------------- | ----- | ------------ | ----------- | --------------------- | --------------------- |
+| JEDEC-DDR-2133 ⚠️ | 2133  | 1.200V (120) | 15-15-15-36 | 1.0590V               | \[+\] 0 (1.000V)      |
+| **R-UV@1**        | 2133  | 1.200V (120) | 15-15-15-36 | 1.0590V               | \[+\] 100 (1.110V)    |
 
 ## Links
 
