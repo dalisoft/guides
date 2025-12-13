@@ -5,22 +5,22 @@
 
 ## Hardware lists
 
-| Kind        | Vendor        | Model                               | Firmware |
-| ----------- | ------------- | ----------------------------------- | -------- |
-| CPU         | Intel         | i9-9900K                            | -        |
-| GPU         | Sapphire      | RX 470 Nitro+                       | -        |
-| Motherboard | Gigabyte      | Intel Z390 AORUS Pro Wi-Fi          | F12k     |
-| CPU Cooler  | Cooler Master | MasterLiquid ML240 RGB              | -        |
-| RAM         | Crucial       | Ballistix DDR4-3000CL15 16GB\*4 Kit | -        |
-| SSD         | Samsung       | 970 Evo 500GB                       | 2B2QEXE7 |
-| SSD         | Samsung       | 970 Evo+ 500GB                      | 2B2QEXM7 |
-| HDD         | Toshiba       | 4TB 7200RPM HDD                     | -        |
-| PSU         | CoolerMaster  | V1200 80+ Platinum                  | -        |
-| Case        | Gamdias       | Athena M2 ELite Mesh                | -        |
-| Webcam      | Logitech      | C930c Full HD                       | -        |
-| Keyboard    | Logitech      | MK470 Slim                          | -        |
-| Monitor     | LG            | UK850-W 4K                          | -        |
-| Adapter     | Fenvi         | T-919 Wi-Fi/BT Adapter              | -        |
+| Kind        | Vendor        | Model                                        | Firmware |
+| ----------- | ------------- | -------------------------------------------- | -------- |
+| CPU         | Intel         | i9-9900K                                     | -        |
+| GPU         | Sapphire      | RX 470 Nitro+                                | -        |
+| Motherboard | Gigabyte      | Intel Z390 AORUS Pro Wi-Fi                   | F12k     |
+| CPU Cooler  | Cooler Master | MasterLiquid ML240 RGB                       | -        |
+| RAM         | Crucial       | Ballistix DDR4-3000CL15 (Rev. E) 16GB\*4 Kit | -        |
+| SSD         | Samsung       | 970 Evo 500GB                                | 2B2QEXE7 |
+| SSD         | Samsung       | 970 Evo+ 500GB                               | 2B2QEXM7 |
+| HDD         | Toshiba       | 4TB 7200RPM HDD                              | -        |
+| PSU         | CoolerMaster  | V1200 80+ Platinum                           | -        |
+| Case        | Gamdias       | Athena M2 ELite Mesh                         | -        |
+| Webcam      | Logitech      | C930c Full HD                                | -        |
+| Keyboard    | Logitech      | MK470 Slim                                   | -        |
+| Monitor     | LG            | UK850-W 4K                                   | -        |
+| Adapter     | Fenvi         | T-919 Wi-Fi/BT Adapter                       | -        |
 
 ## Tweaker configurations
 
@@ -229,39 +229,40 @@ See [voltage scaling](https://github.com/integralfx/MemTestHelper/blob/oc-guide/
 - VCCSA - System Agent Voltage
 - RWCL - Performance of Read, Write, Copy and Latency
 
-| Details         | JEDEC-DDR-2400      | XMP-1  | M-OC@1              | M-OC@2 |
-| --------------- | ------------------- | ------ | ------------------- | ------ |
-| **Status**      | -                   | -      | **Active**          | -      |
-| Clock           | 2400                | 3000   | 3466                | 3733   |
-| Voltage         | 1.200V              | 1.340V | 1.350V              | 1.430V |
-| &nbsp;          |                     |        |                     |        |
-| **Timings**     |                     |        |                     |        |
-|                 | _Primary timings_   |        |                     |        |
-| CAS / tCL       | 16                  | 15     | 16                  | 17     |
-| tRCD / tRLCD    | 16                  | 16     | 18                  | 17     |
-| tRP             | 16                  | 16     | 18                  | 18     |
-| RAS / tRAS      | 39                  | 35     | 42                  | 42     |
-| Command Rate    | 1                   | 2      | 2                   | 2      |
-|                 | _Secondary timings_ |        |                     |        |
-| tWR             |                     |        | 24                  |        |
-| tRFC            | 421                 | 526    | 607                 |        |
-| tRRD_L          | 6                   | 8      | 9                   |        |
-| tRRD_S          | 4                   | 5      | 6                   |        |
-| tWTR_L          |                     |        | 13                  |        |
-| tWTR_S          |                     |        | 5                   |        |
-| tRTP            |                     |        | 12                  |        |
-| tFAW            | 26                  | 32     | 37                  |        |
-| tCWL            | 14                  | 14     | 16                  | 16     |
-|                 | _Timings_           |        |                     |        |
-| tREFI           |                     |        | 13541               | -      |
-| &nbsp;          |                     |        |                     |        |
-| **Voltages**    |                     |        |                     |        |
-| CPU VCCIO       | 1.000V              | 1.100V | 1.150V              | 1.200V |
-| CPU VCCSA       | 1.050V              | 1.150V | 1.200V              | 1.250V |
-| &nbsp;          |                     |        |                     |        |
-| **Performance** |                     |        |                     |        |
-| RWCL (WSL2)     | -                   | -      | 42GB/45GB/42GB/60ns | -      |
-| RWCL (no WSL2)  | -                   | -      | 48GB/52GB/48GB/55ns | -      |
+| Details           | JEDEC-DDR-2400      | XMP-1  | M-OC@1              | M-OC@2 |
+| ----------------- | ------------------- | ------ | ------------------- | ------ |
+| **Status**        | -                   | -      | **Active**          | -      |
+| &nbsp;            |                     |        |                     |        |
+| Clock / Frequency | 2400                | 3000   | 3466                | 3733   |
+| &nbsp;            |                     |        |                     |        |
+| **Timings**       |                     |        |                     |        |
+|                   | _Primary timings_   |        |                     |        |
+| CAS / tCL         | 16                  | 15     | 16                  | 17     |
+| tRCD / tRLCD      | 16                  | 16     | 18                  | 17     |
+| tRP               | 16                  | 16     | 18                  | 18     |
+| RAS / tRAS        | 39                  | 35     | 36                  | 42     |
+| Command Rate      | 1                   | 2      | 2                   | 2      |
+|                   | _Secondary timings_ |        |                     |        |
+| tWR               | -                   | -      | 24                  | -      |
+| tRFC              | 421                 | 526    | 607                 | -      |
+| tRRD_L            | 6                   | 8      | 9                   | -      |
+| tRRD_S            | 4                   | 5      | 6                   | -      |
+| tWTR_L            | -                   | -      | 13                  | -      |
+| tWTR_S            | -                   | -      | 5                   | -      |
+| tRTP              | -                   | -      | 12                  | -      |
+| tFAW              | 26                  | 32     | 37                  |        |
+| tCWL              | 14                  | 14     | 16                  | 16     |
+|                   | _Timings_           |        |                     |        |
+| tREFI             | -                   | -      | 13541               | -      |
+| &nbsp;            |                     |        |                     |        |
+| **Voltages**      |                     |        |                     |        |
+| Voltage           | 1.200V              | 1.340V | 1.350V              | 1.430V |
+| CPU VCCIO         | 1.000V              | 1.100V | 1.150V              | 1.200V |
+| CPU VCCSA         | 1.050V              | 1.150V | 1.200V              | 1.250V |
+| &nbsp;            |                     |        |                     |        |
+| **Performance**   |                     |        |                     |        |
+| RWCL (WSL2)       | -                   | -      | 42GB/45GB/42GB/60ns | -      |
+| RWCL (no WSL2)    | -                   | -      | 48GB/52GB/48GB/55ns | -      |
 
 ## FAQ
 
