@@ -628,7 +628,7 @@ See [voltage scaling](https://github.com/integralfx/MemTestHelper/blob/oc-guide/
 | Name / Param      | Clock | Voltage      | Timings     | VccIo Voltage Control | Uncore Voltage Offset |
 | ----------------- | ----- | ------------ | ----------- | --------------------- | --------------------- |
 | JEDEC-DDR-2133 ⚠️ | 2133  | 1.200V (120) | 15-15-15-36 | 1.0590V               | \[+\] 0 (1.000V)      |
-| **R-UV@1**        | 2133  | 1.200V (120) | 15-15-15-36 | 1.0590V               | \[+\] 100 (1.110V)    |
+| **M-UV@1**        | 2133  | 1.200V (120) | 15-15-15-36 | 1.0590V               | \[+\] 100 (1.110V)    |
 
 ## Links
 
