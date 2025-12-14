@@ -232,6 +232,7 @@ See [voltage scaling](https://github.com/integralfx/MemTestHelper/blob/oc-guide/
 | Details           | JEDEC-DDR-2400      | XMP-1  | M-OC@1              | M-OC@2 |
 | ----------------- | ------------------- | ------ | ------------------- | ------ |
 | **Status**        | -                   | -      | **Active**          | -      |
+| Stability         | -                   | -      | Verified            | -      |
 | &nbsp;            |                     |        |                     |        |
 | Clock / Frequency | 2400                | 3000   | 3466                | 3733   |
 | &nbsp;            |                     |        |                     |        |
@@ -240,11 +241,11 @@ See [voltage scaling](https://github.com/integralfx/MemTestHelper/blob/oc-guide/
 | CAS / tCL         | 16                  | 15     | 16                  | 17     |
 | tRCD / tRLCD      | 16                  | 16     | 18                  | 17     |
 | tRP               | 16                  | 16     | 18                  | 18     |
-| RAS / tRAS        | 39                  | 35     | 36                  | 42     |
+| RAS / tRAS        | 39                  | 35     | 36                  | 38     |
 | Command Rate      | 1                   | 2      | 2                   | 2      |
 |                   | _Secondary timings_ |        |                     |        |
 | tWR               | -                   | -      | 24                  | -      |
-| tRFC              | 421                 | 526    | 607                 | -      |
+| tRFC              | 421                 | 526    | 532                 | -      |
 | tRRD_L            | 6                   | 8      | 9                   | -      |
 | tRRD_S            | 4                   | 5      | 6                   | -      |
 | tWTR_L            | -                   | -      | 13                  | -      |
@@ -253,7 +254,7 @@ See [voltage scaling](https://github.com/integralfx/MemTestHelper/blob/oc-guide/
 | tFAW              | 26                  | 32     | 37                  |        |
 | tCWL              | 14                  | 14     | 16                  | 16     |
 |                   | _Timings_           |        |                     |        |
-| tREFI             | -                   | -      | 13541               | -      |
+| tREFI             | -                   | -      | 32770               | -      |
 | &nbsp;            |                     |        |                     |        |
 | **Voltages**      |                     |        |                     |        |
 | Voltage           | 1.200V              | 1.340V | 1.350V              | 1.430V |
@@ -262,7 +263,7 @@ See [voltage scaling](https://github.com/integralfx/MemTestHelper/blob/oc-guide/
 | &nbsp;            |                     |        |                     |        |
 | **Performance**   |                     |        |                     |        |
 | RWCL (WSL2)       | -                   | -      | 42GB/45GB/42GB/60ns | -      |
-| RWCL (no WSL2)    | -                   | -      | 48GB/52GB/48GB/55ns | -      |
+| RWCL (no WSL2)    | -                   | -      | 50GB/53GB/50GB/49ns | -      |
 
 ## FAQ
 
