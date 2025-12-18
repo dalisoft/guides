@@ -2,23 +2,25 @@
 
 Settings of pictures, audio and more
 
-## Tools
+## Universal tools
 
-- <http://www.lagom.nl/lcd-test>
-- <https://www.eizo.be/monitor-test>
-- <https://webkit.org/blog-files/color-gamut/comparison.html>
+| Priority | Kind     | Purpose          | Link                                                                |
+| -------- | -------- | ---------------- | ------------------------------------------------------------------- |
+| 1        | Test     | Pixels, Colors   | <http://www.lagom.nl/lcd-test>                                      |
+| 1        | Test     | Pixels, Colors   | <https://www.eizo.be/monitor-test>                                  |
+| 2        | Test     | Color gamut      | <https://webkit.org/blog-files/color-gamut/comparison.html>         |
+| 2        | Test     | Color gamut      | <https://webkit.org/blog-files/color-gamut>                         |
+| 2        | Test     | Contrast         | <https://www.photofriday.com/info/calibrate>                        |
+| 2        | Test     | Black color      | <https://www.drycreekphoto.com/Learn/Calibration/monitor_black.htm> |
+| 4        | Guide    | Calibration      | <https://www.epaperpress.com/monitorcal>                            |
+| 4        | Test     | Guide            | <https://www.w4zt.com/screen>                                       |
+| -        | Resource | Monitor profiles | <https://tftcentral.co.uk/articles/icc_profiles>                    |
 
-## Useful tools
+## Monitor-specific
 
-- <https://www.epaperpress.com/monitorcal>
-- <https://www.w4zt.com/screen>
-- <https://www.photofriday.com/info/calibrate>
-- <https://www.drycreekphoto.com/Learn/Calibration/monitor_black.htm>
-- <https://webkit.org/blog-files/color-gamut>
-
-## Profiles
-
-- <https://drive.usercontent.google.com/download?id=1fA6XK3SpekGPCI2ceORlqJRkAK0mLts0>
+| Kind | Purpose             | Link                                                                                 |
+| ---- | ------------------- | ------------------------------------------------------------------------------------ |
+| File | **Monitor profile** | <https://drive.usercontent.google.com/download?id=1fA6XK3SpekGPCI2ceORlqJRkAK0mLts0> |
 
 ## Recommendations
 
@@ -28,7 +30,7 @@ Settings of pictures, audio and more
 
 ## macOS Recommended Profiles
 
-Download [ICC Profile](#profiles) and put into `~/Library/ColorSync/Profiles`
+Download [ICC/Monitor Profile](#monitor-specific) and put into `~/Library/ColorSync/Profiles`
 to get correct profiles. It's recommended for **Author-recommended settings**
 
 or choose by order of recommendation
@@ -41,7 +43,7 @@ or you don't find out any good variant, choose **Colour LCD** profile
 
 ## Windows Recommended Profiles
 
-Download [ICC Profile](#profiles) and use that.
+Download [ICC/Monitor Profile](#monitor-specific) and use that.
 to get correct profiles. It's recommended for **Author-recommended settings**
 
 ### NVidia Control Panel
@@ -76,7 +78,7 @@ Choose **NVIDIA color settings** and also select `120hz` mode to match within ba
 | Brightness         | 70       | -        | -        |
 | Dynamic Brightness | Off      | Off      | Off      |
 | Black Level        | 50       | 50       | 50       |
-| Contrast           | 65       | 65       | 65      |
+| Contrast           | 65       | 65       | 65       |
 | DCR                | Off      | Off      | Off      |
 
 ---

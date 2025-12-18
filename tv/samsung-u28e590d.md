@@ -2,44 +2,39 @@
 
 Settings of pictures, audio and more
 
-## Tools
+## Universal tools
 
-- <http://www.lagom.nl/lcd-test>
-- <https://www.eizo.be/monitor-test>
-- <https://webkit.org/blog-files/color-gamut/comparison.html>
+| Priority | Kind     | Purpose          | Link                                                                |
+| -------- | -------- | ---------------- | ------------------------------------------------------------------- |
+| 1        | Test     | Pixels, Colors   | <http://www.lagom.nl/lcd-test>                                      |
+| 1        | Test     | Pixels, Colors   | <https://www.eizo.be/monitor-test>                                  |
+| 2        | Test     | Color gamut      | <https://webkit.org/blog-files/color-gamut/comparison.html>         |
+| 2        | Test     | Color gamut      | <https://webkit.org/blog-files/color-gamut>                         |
+| 2        | Test     | Contrast         | <https://www.photofriday.com/info/calibrate>                        |
+| 2        | Test     | Black color      | <https://www.drycreekphoto.com/Learn/Calibration/monitor_black.htm> |
+| 4        | Guide    | Calibration      | <https://www.epaperpress.com/monitorcal>                            |
+| 4        | Test     | Guide            | <https://www.w4zt.com/screen>                                       |
+| -        | Resource | Monitor profiles | <https://tftcentral.co.uk/articles/icc_profiles>                    |
 
-## Useful tools
+## Monitor-specific
 
-- <https://www.epaperpress.com/monitorcal>
-- <https://www.w4zt.com/screen>
-- <https://www.photofriday.com/info/calibrate>
-- <https://www.drycreekphoto.com/Learn/Calibration/monitor_black.htm>
-- <https://webkit.org/blog-files/color-gamut>
-
-## Useful Resources
-
-- <https://www.rtings.com/monitor/reviews/samsung/ue590>
-- <https://www.tomshardware.com/reviews/samsung-u28d590d-4k-ultra-hd-monitor,4033-3.html>
-- <https://tftcentral.co.uk/reviews/samsung_u28d590d.htm>
-- <https://tapadoo.com/developers-blog/calibrating-samsungs-u28e590d-for-mac-os>
-- <https://pcmonitors.info/reviews/samsung-u28d590d/#Calibration>
-
-## Related resources
-
-- <https://tftcentral.co.uk/articles/icc_profiles>
-
-## Profiles
-
-- <https://www.rtings.com/images/reviews/monitor/samsung/ue590/ue590-rtings-icc-profil.icm> **Recommended**
-- <https://tftcentral.co.uk/icc_profiles/samsung_u28d590d.icc>
+| Kind   | Purpose                  | Link                                                                                      |
+| ------ | ------------------------ | ----------------------------------------------------------------------------------------- |
+| Review | Calibration, correctness | <https://www.rtings.com/monitor/reviews/samsung/ue590>                                    |
+| Review | Capabilities             | <https://www.tomshardware.com/reviews/samsung-u28d590d-4k-ultra-hd-monitor,4033-3.html>   |
+| Review | Mixed                    | <https://tftcentral.co.uk/reviews/samsung_u28d590d.htm>                                   |
+| Guide  | macOS Calibration        | <https://tapadoo.com/blog/posts/calibrating-samsungs-u28e590d-for-mac-os>                 |
+| Review | Mixed                    | <https://pcmonitors.info/reviews/samsung-u28d590d/#Calibration>                           |
+| File   | **Monitor profile**      | <https://www.rtings.com/images/reviews/monitor/samsung/ue590/ue590-rtings-icc-profil.icm> |
+| File   | Monitor profile          | <https://tftcentral.co.uk/icc_profiles/samsung_u28d590d.icc>                              |
 
 ## Recommendations
 
-- On a macOS, please use `2560x1440@2` scale mode for best expierence for 27"
+- On a macOS, please use `2560x1440@2` scale mode for best experience for 27"
 
 ## macOS Recommended Profiles
 
-Download [ICC Profile](#profiles) and put into `~/Library/ColorSync/Profiles`
+Download [ICC/Monitor Profile](#monitor-specific) and put into `~/Library/ColorSync/Profiles`
 to get correct profiles.
 
 or choose by order of recommendation

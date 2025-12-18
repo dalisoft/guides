@@ -2,24 +2,26 @@
 
 Settings of pictures, audio and more
 
-## Tools
+## Universal tools
 
-- <http://www.lagom.nl/lcd-test>
-- <https://www.eizo.be/monitor-test>
-- <https://webkit.org/blog-files/color-gamut/comparison.html>
+| Priority | Kind     | Purpose          | Link                                                                |
+| -------- | -------- | ---------------- | ------------------------------------------------------------------- |
+| 1        | Test     | Pixels, Colors   | <http://www.lagom.nl/lcd-test>                                      |
+| 1        | Test     | Pixels, Colors   | <https://www.eizo.be/monitor-test>                                  |
+| 2        | Test     | Color gamut      | <https://webkit.org/blog-files/color-gamut/comparison.html>         |
+| 2        | Test     | Color gamut      | <https://webkit.org/blog-files/color-gamut>                         |
+| 2        | Test     | Contrast         | <https://www.photofriday.com/info/calibrate>                        |
+| 2        | Test     | Black color      | <https://www.drycreekphoto.com/Learn/Calibration/monitor_black.htm> |
+| 4        | Guide    | Calibration      | <https://www.epaperpress.com/monitorcal>                            |
+| 4        | Test     | Guide            | <https://www.w4zt.com/screen>                                       |
+| -        | Resource | Monitor profiles | <https://tftcentral.co.uk/articles/icc_profiles>                    |
 
-## Useful tools
+## Monitor-specific
 
-- <https://www.epaperpress.com/monitorcal>
-- <https://www.w4zt.com/screen>
-- <https://www.photofriday.com/info/calibrate>
-- <https://www.drycreekphoto.com/Learn/Calibration/monitor_black.htm>
-- <https://webkit.org/blog-files/color-gamut>
-
-## Useful Resources
-
-- <https://www.rtings.com/tv/reviews/lg/c1-oled>
-- <https://www.rtings.com/tv/reviews/lg/c1-oled/settings>
+| Kind   | Purpose                  | Link                                                    |
+| ------ | ------------------------ | ------------------------------------------------------- |
+| Review | Calibration, correctness | <https://www.rtings.com/tv/reviews/lg/c1-oled>          |
+| Review | Settings                 | <https://www.rtings.com/tv/reviews/lg/c1-oled/settings> |
 
 ---
 

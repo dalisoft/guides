@@ -2,33 +2,28 @@
 
 Settings of pictures, audio and more
 
-## Tools
+## Universal tools
 
-- <http://www.lagom.nl/lcd-test>
-- <https://www.eizo.be/monitor-test>
-- <https://webkit.org/blog-files/color-gamut/comparison.html>
+| Priority | Kind     | Purpose          | Link                                                                |
+| -------- | -------- | ---------------- | ------------------------------------------------------------------- |
+| 1        | Test     | Pixels, Colors   | <http://www.lagom.nl/lcd-test>                                      |
+| 1        | Test     | Pixels, Colors   | <https://www.eizo.be/monitor-test>                                  |
+| 2        | Test     | Color gamut      | <https://webkit.org/blog-files/color-gamut/comparison.html>         |
+| 2        | Test     | Color gamut      | <https://webkit.org/blog-files/color-gamut>                         |
+| 2        | Test     | Contrast         | <https://www.photofriday.com/info/calibrate>                        |
+| 2        | Test     | Black color      | <https://www.drycreekphoto.com/Learn/Calibration/monitor_black.htm> |
+| 4        | Guide    | Calibration      | <https://www.epaperpress.com/monitorcal>                            |
+| 4        | Test     | Guide            | <https://www.w4zt.com/screen>                                       |
+| -        | Resource | Monitor profiles | <https://tftcentral.co.uk/articles/icc_profiles>                    |
 
-## Useful tools
+## Monitor-specific
 
-- <https://www.epaperpress.com/monitorcal>
-- <https://www.w4zt.com/screen>
-- <https://www.photofriday.com/info/calibrate>
-- <https://www.drycreekphoto.com/Learn/Calibration/monitor_black.htm>
-- <https://webkit.org/blog-files/color-gamut>
-
-## Useful Resources
-
-- <https://www.rtings.com/monitor/reviews/lg/27uk650-w>
-- <https://settingslab.com/lg-27uk650-calibration-settings>
-- <https://www.tomshardware.com/reviews/lg-27uk850-gaming-monitor,5708-2.html>
-
-## Related resources
-
-- <https://tftcentral.co.uk/articles/icc_profiles>
-
-## Profiles
-
-- <https://www.rtings.com/images/reviews/monitor/lg/27uk650/27uk650-rtings-icc-profile.icm>
+| Kind   | Purpose                  | Link                                                                                      |
+| ------ | ------------------------ | ----------------------------------------------------------------------------------------- |
+| Review | Calibration, correctness | <https://www.rtings.com/monitor/reviews/lg/27uk650-w>                                     |
+| Review | Capabilities             | <https://www.tomshardware.com/reviews/lg-27uk850-gaming-monitor,5708-2.html>              |
+| Review | Capabilities             | <https://settingslab.com/lg-27uk650-calibration-settings>                                 |
+| File   | **Monitor profile**      | <https://www.rtings.com/images/reviews/monitor/lg/27uk650/27uk650-rtings-icc-profile.icm> |
 
 ## Recommendations
 
@@ -37,7 +32,7 @@ Settings of pictures, audio and more
 
 ## macOS Recommended Profiles
 
-Download [ICC Profile](#profiles) and put into `~/Library/ColorSync/Profiles`
+Download [ICC/Monitor Profile](#monitor-specific) and put into `~/Library/ColorSync/Profiles`
 to get correct profiles. It's recommended for **Author-recommended settings**
 
 or choose by order of recommendation
