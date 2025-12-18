@@ -12,6 +12,7 @@ Settings of pictures, audio and more
 | 2        | Test     | Color gamut      | <https://webkit.org/blog-files/color-gamut>                         |
 | 2        | Test     | Contrast         | <https://www.photofriday.com/info/calibrate>                        |
 | 2        | Test     | Black color      | <https://www.drycreekphoto.com/Learn/Calibration/monitor_black.htm> |
+| 3        | Test     | Performance      | <https://testufo.com>                                               |
 | 4        | Guide    | Calibration      | <https://www.epaperpress.com/monitorcal>                            |
 | 4        | Test     | Guide            | <https://www.w4zt.com/screen>                                       |
 | -        | Resource | Monitor profiles | <https://tftcentral.co.uk/articles/icc_profiles>                    |
@@ -25,7 +26,7 @@ Settings of pictures, audio and more
 ## Recommendations
 
 - Use DisplayPort interface to connecting to your device
-- Please use `3440x1440@120` mode for best expierence with less flickering issue
+- Please use `3440x1440@120` mode for best experience with less flickering issue
 - Please use `RGB 8-bit Full` mode from **Nvidia Control Panel** or alternative control
 
 ## macOS Recommended Profiles
