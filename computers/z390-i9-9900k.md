@@ -16,6 +16,7 @@
 | Kind  | Purpose     | Link                                                                    |
 | ----- | ----------- | ----------------------------------------------------------------------- |
 | Check | RAM Timings | <https://www.reddit.com/r/overclocking/comments/z82lvj/comment/iybbj1x> |
+| Guide | RAM         | <https://github.com/integralfx/MemTestHelper>                           |
 
 ## Hardware lists
 
