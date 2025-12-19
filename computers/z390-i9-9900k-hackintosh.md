@@ -5,13 +5,14 @@
 
 ## Universal tools
 
-| Priority | Kind | Purpose           | Link                                     | Min. Required      |
-| -------- | ---- | ----------------- | ---------------------------------------- | ------------------ |
-| 1        | Test | Memory stability  | <https://github.com/CoolCmd/TestMem5>    | 3-cycle, 3-hour+   |
-| 2        | Test | Overall Stability | <https://www.aida64.com>                 | Full 3 hour+       |
-| 2        | Test | Overall Stability | <https://www.ocbase.com/occt/personal>   | Full 1 hour+       |
-| 3        | Test | Stress stability  | <https://www.numberworld.org/y-cruncher> | -                  |
-| 3        | Test | CPU stability     | <https://www.mersenne.org/download>      | All mode, 24 hour+ |
+| Priority | Kind  | Purpose           | Link                                     | Min. Required      |
+| -------- | ----- | ----------------- | ---------------------------------------- | ------------------ |
+| 1        | Check | Sensors           | <https://www.hwinfo.com>                 |                    |
+| 1        | Test  | Memory stability  | <https://github.com/CoolCmd/TestMem5>    | 3-cycle, 3-hour+   |
+| 2        | Test  | Overall Stability | <https://www.aida64.com>                 | Full 3 hour+       |
+| 2        | Test  | Overall Stability | <https://www.ocbase.com/occt/personal>   | Full 1 hour+       |
+| 3        | Test  | Stress stability  | <https://www.numberworld.org/y-cruncher> | -                  |
+| 3        | Test  | CPU stability     | <https://www.mersenne.org/download>      | All mode, 24 hour+ |
 
 ## Platform-specific
 
