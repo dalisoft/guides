@@ -37,7 +37,7 @@
 | Case        | Gamdias       | Athena M2 ELite Mesh                         | -        |
 | Webcam      | Logitech      | C930c Full HD                                | -        |
 | Keyboard    | Logitech      | MK470 Slim                                   | -        |
-| Monitor     | LG            | UK850-W 4K                                   | -        |
+| Monitor     | LG            | [UK850-W 4K](../tv/lg-uk850-w.md)            | -        |
 | Adapter     | Fenvi         | T-919 Wi-Fi/BT Adapter                       | -        |
 
 ## Tweaker configurations

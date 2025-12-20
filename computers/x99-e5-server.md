@@ -20,24 +20,24 @@
 
 ## Hardware lists
 
-| Kind        | Vendor       | Model                   | Firmware          |
-| ----------- | ------------ | ----------------------- | ----------------- |
-| CPU         | Intel        | E5-2696v3               | -                 |
-| GPU         | Sapphire     | RX 470 Nitro+           | -                 |
-| Motherboard | Huananzhi    | X99-F8 (NCT5567D-B)     | v5.10 (OC-unlock) |
-| CPU Cooler  | -            | 6-heatpipe china cooler | -                 |
-| RAM         | SK (Hynix)   | LRDIMM-2133 ECC 32GB\*8 | -                 |
-| SSD         | Samsung      | 970 Evo 500GB           | 2B2QEXE7          |
-| SSD         | Samsung      | 980 Pro 2TB             | 5B2QGXA7          |
-| HDD         | WD           | RED Pro 20TB \* 4       | -                 |
-| HDD         | WD           | RED Plus 18TB           | -                 |
-| PSU         | CoolerMaster | V1200 80+ Platinum      | -                 |
-| Case        | Fractal      | Meshify 2               | -                 |
-| Webcam      | -            | -                       | -                 |
-| Keyboard    | -            | Cheap keyboard+mice     | -                 |
-| Monitor     | IMMER        | Full HD Curved 21.5"    | -                 |
-| Adapter     | LR-Link      | 6880BT 10GbE PCI-E      | -                 |
-| Adapter     | Intel        | 82575 2\*1GbE PCI-E     | -                 |
+| Kind        | Vendor       | Model                                         | Firmware          |
+| ----------- | ------------ | --------------------------------------------- | ----------------- |
+| CPU         | Intel        | E5-2696v3                                     | -                 |
+| GPU         | Sapphire     | RX 470 Nitro+                                 | -                 |
+| Motherboard | Huananzhi    | X99-F8 (NCT5567D-B)                           | v5.10 (OC-unlock) |
+| CPU Cooler  | -            | 6-heatpipe china cooler                       | -                 |
+| RAM         | SK (Hynix)   | LRDIMM-2133 ECC 32GB\*8                       | -                 |
+| SSD         | Samsung      | 970 Evo 500GB                                 | 2B2QEXE7          |
+| SSD         | Samsung      | 980 Pro 2TB                                   | 5B2QGXA7          |
+| HDD         | WD           | RED Pro 20TB \* 4                             | -                 |
+| HDD         | WD           | RED Plus 18TB                                 | -                 |
+| PSU         | CoolerMaster | V1200 80+ Platinum                            | -                 |
+| Case        | Fractal      | Meshify 2                                     | -                 |
+| Webcam      | -            | -                                             | -                 |
+| Keyboard    | -            | Cheap keyboard+mice                           | -                 |
+| Monitor     | IMMER        | [Samsung U28E590D](../tv/samsung-u28e590d.md) | -                 |
+| Adapter     | LR-Link      | 6880BT 10GbE PCI-E                            | -                 |
+| Adapter     | Intel        | 82575 2\*1GbE PCI-E                           | -                 |
 
 ## Main
 
