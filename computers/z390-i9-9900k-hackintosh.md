@@ -13,6 +13,8 @@
 | 2        | Test  | Overall Stability | <https://www.ocbase.com/occt/personal>   | Full 1 hour+       |
 | 3        | Test  | Stress stability  | <https://www.numberworld.org/y-cruncher> | -                  |
 | 3        | Test  | CPU stability     | <https://www.mersenne.org/download>      | All mode, 24 hour+ |
+| 4        | Test  | CPU stability     | <https://github.com/mbntr/PYPrime-2.x>   | -                  |
+| 4        | Check | Performance       | <https://www.maxon.net/en/cinebench>     | -                  |
 
 ## Platform-specific
 
@@ -242,46 +244,48 @@
 
 ## Memory profiles
 
+> This profiles only for 4 DIMM slots (16GB \* 4). 2 DIMM slots should work without any issues.
+
 See [voltage scaling](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md#voltage-scaling) for better understanding how it works
 
 - VCCSA - System Agent Voltage
 - RWCL - Performance of Read, Write, Copy and Latency
 
-| Details           | JEDEC-DDR-2400      | XMP-1  | M-OC@1              | M-OC@2 |
-| ----------------- | ------------------- | ------ | ------------------- | ------ |
-| **Status**        | -                   | -      | **Active**          | -      |
-| Stability         | -                   | -      | Verified            | -      |
-| &nbsp;            |                     |        |                     |        |
-| Clock / Frequency | 2400                | 3000   | 3466                | 3733   |
-| &nbsp;            |                     |        |                     |        |
-| **Timings**       |                     |        |                     |        |
-|                   | _Primary timings_   |        |                     |        |
-| CAS / tCL         | 16                  | 15     | 16                  | 17     |
-| tRCD / tRLCD      | 16                  | 16     | 18                  | 17     |
-| tRP               | 16                  | 16     | 18                  | 18     |
-| RAS / tRAS        | 39                  | 35     | 36                  | 38     |
-| Command Rate      | 1                   | 2      | 2                   | 2      |
-|                   | _Secondary timings_ |        |                     |        |
-| tWR               | -                   | -      | 24                  | -      |
-| tRFC              | 421                 | 526    | 532                 | -      |
-| tRRD_L            | 6                   | 8      | 9                   | -      |
-| tRRD_S            | 4                   | 5      | 6                   | -      |
-| tWTR_L            | -                   | -      | 13                  | -      |
-| tWTR_S            | -                   | -      | 5                   | -      |
-| tRTP              | -                   | -      | 12                  | -      |
-| tFAW              | 26                  | 32     | 37                  |        |
-| tCWL              | 14                  | 14     | 16                  | 16     |
-|                   | _Timings_           |        |                     |        |
-| tREFI             | -                   | -      | 32770               | -      |
-| &nbsp;            |                     |        |                     |        |
-| **Voltages**      |                     |        |                     |        |
-| Voltage           | 1.200V              | 1.340V | 1.350V              | 1.430V |
-| CPU VCCIO         | 1.000V              | 1.100V | 1.150V              | 1.200V |
-| CPU VCCSA         | 1.050V              | 1.150V | 1.200V              | 1.250V |
-| &nbsp;            |                     |        |                     |        |
-| **Performance**   |                     |        |                     |        |
-| RWCL (WSL2)       | -                   | -      | 42GB/45GB/42GB/60ns | -      |
-| RWCL (no WSL2)    | -                   | -      | 50GB/53GB/50GB/49ns | -      |
+| Details           | JEDEC-DDR-2400      | XMP-1             | M-OC@1              | M-OC@2            |
+| ----------------- | ------------------- | ----------------- | ------------------- | ----------------- |
+| **Status**        | -                   | -                 | **Active**          | -                 |
+| Stability         | -                   | -                 | Verified            | -                 |
+| &nbsp;            |                     |                   |                     |                   |
+| Clock / Frequency | 2400                | 3000              | 3466                | 3733              |
+| &nbsp;            |                     |                   |                     |                   |
+| **Timings**       |                     |                   |                     |                   |
+|                   | _Primary timings_   |                   |                     |                   |
+| CAS / tCL         | 16                  | 15                | 16                  | 17                |
+| tRCD / tRLCD      | 16                  | 16                | 18                  | 17                |
+| tRP               | 16                  | 16                | 18                  | 18                |
+| RAS / tRAS        | 39 (`tRCD + tRP`)   | 35 (`tRCD + tRP`) | 36 (`tRCD + tRP`)   | 38 (`tRCD + tRP`) |
+| Command Rate      | 1                   | 2                 | 2                   | 2                 |
+|                   | _Secondary timings_ |                   |                     |                   |
+| tWR               | -                   | -                 | 24                  | -                 |
+| tRFC              | 421                 | 526               | 524                 | -                 |
+| tRRD_L            | 6                   | 8                 | 9                   | -                 |
+| tRRD_S            | 4                   | 5                 | 6                   | -                 |
+| tWTR_L            | -                   | -                 | 13                  | -                 |
+| tWTR_S            | -                   | -                 | 5                   | -                 |
+| tRTP              | -                   | -                 | 12                  | -                 |
+| tFAW              | 26                  | 32                | 37                  |                   |
+| tCWL              | 14                  | 14                | 16                  | 16                |
+|                   | _Timings_           |                   |                     |                   |
+| tREFI             | -                   | 32770             | 40000               | 32770             |
+| &nbsp;            |                     |                   |                     |                   |
+| **Voltages**      |                     |                   |                     |                   |
+| Voltage           | 1.200V              | 1.340V            | 1.350V              | 1.430V            |
+| CPU VCCIO         | 1.000V              | 1.100V            | 1.150V              | 1.200V            |
+| CPU VCCSA         | 1.050V              | 1.150V            | 1.200V              | 1.250V            |
+| &nbsp;            |                     |                   |                     |                   |
+| **Performance**   |                     |                   |                     |                   |
+| RWCL (WSL2)       | -                   | -                 | 42GB/45GB/42GB/60ns | -                 |
+| RWCL (no WSL2)    | -                   | -                 | 50GB/53GB/50GB/49ns | -                 |
 
 ## FAQ
 
