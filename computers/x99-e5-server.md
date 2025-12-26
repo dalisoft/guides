@@ -18,6 +18,8 @@
 | Check | RAM Timings | <https://www.reddit.com/r/overclocking/comments/z82lvj/comment/iybbj1x> |
 | Guide | RAM         | <https://github.com/integralfx/MemTestHelper>                           |
 
+---
+
 ## Hardware lists
 
 | Kind        | Vendor       | Model                                 | Firmware          |
@@ -38,6 +40,8 @@
 | Monitor     | Samsung      | [U28E590D](../tv/samsung-u28e590d.md) | -                 |
 | Adapter     | LR-Link      | 6880BT 10GbE PCI-E                    | -                 |
 | Adapter     | Intel        | 82575 2\*1GbE PCI-E                   | -                 |
+
+---
 
 ## Main
 

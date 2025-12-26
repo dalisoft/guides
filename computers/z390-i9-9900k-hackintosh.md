@@ -23,6 +23,8 @@
 | Check | RAM Timings | <https://www.reddit.com/r/overclocking/comments/z82lvj/comment/iybbj1x> |
 | Guide | RAM         | <https://github.com/integralfx/MemTestHelper>                           |
 
+---
+
 ## Hardware lists
 
 | Kind        | Vendor        | Model                                        | Firmware |
@@ -41,6 +43,8 @@
 | Keyboard    | Logitech      | MK470 Slim                                   | -        |
 | Monitor     | LG            | [UK850-W 4K](../tv/lg-uk850-w.md)            | -        |
 | Adapter     | Fenvi         | T-919 Wi-Fi/BT Adapter                       | -        |
+
+---
 
 ## Tweaker configurations
 
